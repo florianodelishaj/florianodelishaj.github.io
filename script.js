@@ -46,7 +46,11 @@ function createQuestionElement(question, index) {
     questionText.classList.add("title");
     questionText.textContent = `${index + 1}. ${question.question}`;
     div.appendChild(questionText);
-
+    if (question.img) {
+        const questionImg = document.createElement('img');
+        questionImg.setAttribute('src', "./img/" + question.img);
+        div.appendChild(questionImg);
+    }
     // Radio button per le risposte
     for (let i = 1; i <= 4; i++) {
         const label = document.createElement('label');

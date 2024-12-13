@@ -298,5 +298,208 @@
         "current_anwer": "answer_4",
         "module": "modulo 26",
         "link_pdf": ""
+    },
+    {
+        "question": "Un pattern può essere definito come:",
+        "answer_1": "Una soluzione progettuale generale ad un problema ricorrente",
+        "answer_2": "Una soluzione progettuale generale ad un problema particolare",
+        "answer_3": "Una soluzione progettuale particolare ad un problema ricorrente",
+        "answer_4": "Una soluzione software particolare ad un problema ricorrente",
+        "current_anwer": "answer_1",
+        "module": "modulo 39",
+        "link_pdf": ""
+    },
+    {
+        "question": "I pattern riguardanti le relazioni uno-a-molti sono:",
+        "answer_1": "Solo Part-of",
+        "answer_2": "Part-of e Istance-of",
+        "answer_3": "Solo istance-of",
+        "answer_4": "Solo ricorsivi",
+        "current_anwer": "answer_2",
+        "module": "modulo 39",
+        "link_pdf": ""
+    },
+    {
+        "question": "La reificazione di un attributo avviene quando:",
+        "answer_1": "Quando si individua nelle specifiche un concetto non autonomo con proprietà associate, come relazione",
+        "answer_2": "Quando si individua nelle specifiche un concetto autonomo con proprietà associate, come relazione",
+        "answer_3": "Quando si individua nelle specifiche un concetto autonomo con proprietà associate, come attributo",
+        "answer_4": "Quando si individua nelle specifiche un concetto autonomo con proprietà associate, come entità",
+        "current_anwer": "answer_3",
+        "module": "modulo 39",
+        "link_pdf": ""
+    },
+    {
+        "question": "Reificare un attributo significa:",
+        "answer_1": "L'attributo viene aggiunto all'entità",
+        "answer_2": "L'attributo viene promosso ad entità",
+        "answer_3": "L'attributo viene eliminato",
+        "answer_4": "L'attributo viene promosso a relazione",
+        "current_anwer": "answer_2",
+        "module": "modulo 39",
+        "link_pdf": ""
+    },
+    {
+        "question": "Il pattern part-of:",
+        "answer_1": "Riguarda una entità che è parte di un'altra entità in una relazione uno-a-uno",
+        "answer_2": "Riguarda una entità che è parte di un'altra relazione in una relazione molti-a-molti",
+        "answer_3": "Riguarda una entità che è parte di un'altra entità in una relazione molti-a-molti",
+        "answer_4": "Riguarda una entità che è parte di un'altra entità in una relazione uno-a-molti",
+        "current_anwer": "answer_4",
+        "module": "modulo 39",
+        "link_pdf": ""
+    },
+    {
+        "question": "Il pattern istance-of si applica quando:",
+        "answer_1": "Le istanze delle occorrenze di una relazione sono istanze delle occorrenze dell' altra entità",
+        "answer_2": "Le istanze delle occorrenze di una entità di una relazione sono istanze delle occorrenze dell' altra entità",
+        "answer_3": "Le istanze delle occorrenze di una entità di una relazione sono istanze delle occorrenze di un'altra relazione",
+        "answer_4": "Le istanze delle occorrenze di una entità in una relazione sono istanze delle occorrenze di un attributo composto",
+        "current_anwer": "answer_2",
+        "module": "modulo 39",
+        "link_pdf": ""
+    },
+    {
+        "question": "La reificazione di una relazione binaria si applica quando:",
+        "answer_1": "Si hanno due concetti legati da una relazione ricorsiva",
+        "answer_2": "Si ha una relazione che legaaltre due relazioni",
+        "answer_3": "Si ha un concetto che lega altri due concetti",
+        "answer_4": "Si ha un concetto che lega due relazioni",
+        "current_anwer": "answer_3",
+        "module": "modulo 39",
+        "link_pdf": ""
+    },
+    {
+        "question": "La reificazione di una relazione ricorsiva si ha quando:",
+        "answer_1": "Si ha un concetto in relazione ricorsiva con un'altra entità",
+        "answer_2": "Si ha una relazione ricorsiva con un'altra entità",
+        "answer_3": "Si ha un concetto in relazione ricorsiva con un'altra relazione",
+        "answer_4": "Si hanno due concetti ed un terzo concetto in relazione ricorsiva con loro",
+        "current_anwer": "answer_1",
+        "module": "modulo 39",
+        "link_pdf": ""
+    },
+    {
+        "question": "Nell'esempio di relazione tra torneo ed una sua edizione annuale, siamo in presenza di un pattern di tipo:",
+        "answer_1": "Part-of",
+        "answer_2": "Istance-of",
+        "answer_3": "Ricorsivo",
+        "answer_4": "uno-a-uno",
+        "current_anwer": "answer_2",
+        "module": "modulo 39",
+        "link_pdf": ""
+    },
+    {
+        "question": "Nell'esempio di relazione tra cinema e sue sale, si è in presenza di un pattern di tipo:",
+        "answer_1": "Part-of",
+        "answer_2": "Istance-of",
+        "answer_3": "Ricorsivo",
+        "answer_4": "uno-a-uno",
+        "current_anwer": "answer_1",
+        "module": "modulo 39",
+        "link_pdf": ""
+    },
+    {
+        "question": "Per rappresentare un concetto presente nelle specifiche attraverso un costrutto E-R, ci si basa su:",
+        "answer_1": "Le definizioni dei costrutti de modello del ciclo di vita",
+        "answer_2": "Le definizioni dei costrutti de modello E-R",
+        "answer_3": "Le definizioni dei costrutti de modello logico",
+        "answer_4": "Le definizioni dei costrutti de modello fisico",
+        "current_anwer": "answer_2",
+        "module": "modulo 38",
+        "link_pdf": ""
+    },
+    {
+        "question": "Esiste una rappresentazione univoca in E-R di un insieme di specifiche:",
+        "answer_1": "Sempre",
+        "answer_2": "Mai",
+        "answer_3": "A volte",
+        "answer_4": "Dipende dal contesto logico",
+        "current_anwer": "answer_3",
+        "module": "modulo 38",
+        "link_pdf": ""
+    },
+    {
+        "question": "Se un concetto ha proprietà significative e/o descriva oggetti con esistenza autonoma è opportuno rappresentarlo con:",
+        "answer_1": "Una generalizzazione",
+        "answer_2": "Un attributo",
+        "answer_3": "Una relazione",
+        "answer_4": "Una entità",
+        "current_anwer": "answer_4",
+        "module": "modulo 38",
+        "link_pdf": ""
+    },
+    {
+        "question": "L'età di un insegnante è un classico esempio di:",
+        "answer_1": "Attributo",
+        "answer_2": "Entità",
+        "answer_3": "Relazione",
+        "answer_4": "Generalizzazione",
+        "current_anwer": "answer_1",
+        "module": "modulo 38",
+        "link_pdf": ""
+    },
+    {
+        "question": "La partecipazione di uno studente ad un corso è un classico esempio di:",
+        "answer_1": "Attributo",
+        "answer_2": "Relazione",
+        "answer_3": "Entità",
+        "answer_4": "Generalizzazione",
+        "current_anwer": "answer_2",
+        "module": "modulo 38",
+        "link_pdf": ""
+    },
+    {
+        "question": "La figura rappresenta",
+        "img":"domanda_6_modulo_38.jpg",
+        "answer_1": "Una entità con identificatore l'attributo codice",
+        "answer_2": "Una entità con identificatore l'attributo Nome",
+        "answer_3": "Una entità con identificatore l'attributo Indirizzo",
+        "answer_4": "Una entità con identificatore Indirizzo+nome",
+        "current_anwer": "answer_1",
+        "module": "modulo 38",
+        "link_pdf": ""
+    },
+    {
+        "question": "La relazione Prestito senza attributi identificatori",
+        "img":"domanda_7_modulo_38.jpg",
+        "answer_1": "La relazione Prestito senza attributi identificatori",
+        "answer_2": "L'entità Prestito con quattro attributi (nessun identificatore)",
+        "answer_3": "L'entità Prestito con quattro attributi, tutti identificatori",
+        "answer_4": "La relazione Prestito con quattro attributi",
+        "current_anwer": "answer_2",
+        "module": "modulo 38",
+        "link_pdf": ""
+    },
+    {
+        "question": "La figura rappresenta un esempio di",
+        "img":"domanda_8_modulo_38.jpg",
+        "answer_1": "Relazione",
+        "answer_2": "Attributo",
+        "answer_3": "Generalizzazione",
+        "answer_4": "Entità",
+        "current_anwer": "answer_3",
+        "module": "modulo 38",
+        "link_pdf": ""
+    },
+    {
+        "question": "Se uno o più concetti risultano essere casi particolari di un altro concetto, è opportuno rappresentarli con:",
+        "answer_1": "relazione",
+        "answer_2": "generalizzazione",
+        "answer_3": "Una entità",
+        "answer_4": "Un attributo",
+        "current_anwer": "answer_2",
+        "module": "modulo 38",
+        "link_pdf": ""
+    },
+    {
+        "question": "Se nelle specifiche appare un concetto che associa due entità, esso si traduce in:",
+        "answer_1": "Una generalizzazione",
+        "answer_2": "Un attributo",
+        "answer_3": "Una entità",
+        "answer_4": "Una relazione",
+        "current_anwer": "answer_4",
+        "module": "modulo 38",
+        "link_pdf": ""
     }
 ]
