@@ -1,0 +1,302 @@
+[
+    {
+        "question": "La progettazione di una base di dati:",
+        "answer_1": "e' una delle attività di sviluppo di un sistema hardware",
+        "answer_2": "e' una delle attività di sviluppo di un sistema informativo",
+        "answer_3": "e' una delle attività di sviluppo di un sistema informatico",
+        "answer_4": "e' una delle attività di sviluppo di un programma software",
+        "current_anwer": "answer_2",
+        "module": "modulo 28",
+        "link_pdf": ""
+    },
+    {
+        "question": "Il ciclo di vita di un sistema informativo è:",
+        "answer_1": "l'insieme delle attività svolte da analisti",
+        "answer_2": "la sequenzializzazione delle attività svolte da analisti, progettisti, utenti",
+        "answer_3": "l'insieme e la sequenzializzazione delle attività svolte da analisti, progettisti, utenti",
+        "answer_4": "l'insieme delle attività svolte da analisti, progettisti, utenti",
+        "current_anwer": "answer_3",
+        "module": "modulo 28",
+        "link_pdf": ""
+    },
+    {
+        "question": "Il ciclo di vita di un sistema informatovo si compone di:",
+        "answer_1": "6 fasi",
+        "answer_2": "5 fasi",
+        "answer_3": "7 fasi",
+        "answer_4": "4 fasi",
+        "current_anwer": "answer_1",
+        "module": "modulo 28",
+        "link_pdf": ""
+    },
+    {
+        "question": "Lo studio di fattibilità di un sistema informativo:",
+        "answer_1": "serve a definire costi e priorità di un sistema informativo",
+        "answer_2": "serve a definire solo i costi",
+        "answer_3": "serve a definire solo le priorità di un sistema informativo",
+        "answer_4": "serve a definire gli attori di processo",
+        "current_anwer": "answer_1",
+        "module": "modulo 28",
+        "link_pdf": ""
+    },
+    {
+        "question": "Nella fasi di implementazione di un sistema informativo:",
+        "answer_1": "vengono solo intervistati gli stakeholders di processo",
+        "answer_2": "viene prodotto solo il codice dei programmi",
+        "answer_3": "viene costruita e popolata la sola base di dati",
+        "answer_4": "viene costruita e popolata la base di dati e viene prodotto il codice dei programmi",
+        "current_anwer": "answer_4",
+        "module": "modulo 28",
+        "link_pdf": ""
+    },
+    {
+        "question": "La fase di validazione e collaudo di un sistema informativo:",
+        "answer_1": "serve a verificare se l'utente valida le procedure",
+        "answer_2": "serve a verificare il corretto funzionamento e la qualità del sistema informativo",
+        "answer_3": "serve a verificare solo la qualità del sistema informativo",
+        "answer_4": "serve a verificare solo il corretto funzionamento del sistema informativo",
+        "current_anwer": "answer_2",
+        "module": "modulo 28",
+        "link_pdf": ""
+    },
+    {
+        "question": "La progettazione di un sistema informativo si basa:",
+        "answer_1": "sulla progettazione dei dati, delle applicazioni e degli utenti",
+        "answer_2": "solo sulla progettazione delle applicazioni",
+        "answer_3": "sulla progettazione dei dati e delle applicazioni",
+        "answer_4": "solo sulla progettazione dei dati",
+        "current_anwer": "answer_3",
+        "module": "modulo 28",
+        "link_pdf": ""
+    },
+    {
+        "question": "Il processo sul quale si basa il ciclo di vita di un sistema informativo:",
+        "answer_1": "e' sempre e solo sequenziale sulle fasi",
+        "answer_2": "e' sempre e solo iterativo su più cicli",
+        "answer_3": "può essere a tratti sequenziale ed a tratti iterativo su più fasi",
+        "answer_4": "e' solo a cascata",
+        "current_anwer": "answer_3",
+        "module": "modulo 28",
+        "link_pdf": ""
+    },
+    {
+        "question": "Le basi di dati costituiscono:",
+        "answer_1": "le procedure di utilizzo dei dati da parte degli utenti",
+        "answer_2": "tutto un sistema informatico",
+        "answer_3": "tutto un sistema informativo",
+        "answer_4": "solo una parte di un sistema informativo",
+        "current_anwer": "answer_4",
+        "module": "modulo 28",
+        "link_pdf": ""
+    },
+    {
+        "question": "La prototipizzazione",
+        "answer_1": "e' una fase che a volte si aggiunge come primo blocco alle fasi standard di un sistema informativo",
+        "answer_2": "e' una delle fasi standard del ciclo di vita di un sistema informativo",
+        "answer_3": "e' sempre la prima fase del ciclo di vita di un sistema informativo",
+        "answer_4": "e' la fase di consegna all'utente finale di un sistema informativo",
+        "current_anwer": "answer_1",
+        "module": "modulo 28",
+        "link_pdf": ""
+    },
+    {
+        "question": "Il comando GRANT OPTION specifica:",
+        "answer_1": "Se il privilegio può essere trasmesso ad altri utenti",
+        "answer_2": "Se il privilegio può riguardare una transazione",
+        "answer_3": "Se il privilegio rilascia l'opzione di variazione schema",
+        "answer_4": "Se l'utente non deve avere privilegi",
+        "current_anwer": "answer_1",
+        "module": "modulo 27",
+        "link_pdf": ""
+    },
+    {
+        "question": "Un utente si può autorizzare a vedere solo alcune ennuple di una relazione:",
+        "answer_1": "Attraverso una vista",
+        "answer_2": "Attraverso una query",
+        "answer_3": "Attraverso una espressione",
+        "answer_4": "Attraverso un operatore relazionale",
+        "current_anwer": "answer_1",
+        "module": "modulo 27",
+        "link_pdf": ""
+    },
+    {
+        "question": "Le clausole RESTRICT e CASCADE del comando REVOKE servono per:",
+        "answer_1": "La propagazione delle revoche",
+        "answer_2": "La propagazione delle Transazioni",
+        "answer_3": "La propagazione degli UPDATE",
+        "answer_4": "La propagazione delle SELECT",
+        "current_anwer": "answer_1",
+        "module": "modulo 27",
+        "link_pdf": ""
+    },
+    {
+        "question": "Una transazione inizia:",
+        "answer_1": "Prima del primo comando SQL",
+        "answer_2": "Alla fine dei comandi SQL",
+        "answer_3": "Al primo comando SQL",
+        "answer_4": "Al secondo comando SQL",
+        "current_anwer": "answer_3",
+        "module": "modulo 27",
+        "link_pdf": ""
+    },
+    {
+        "question": "Con il comando ROLLBACK:",
+        "answer_1": "Si riavvia la transazione",
+        "answer_2": "Si rinuncia all'esecuzione delle operazioni specificate prima della transazione",
+        "answer_3": "Si rinuncia all'esecuzione delle operazioni specificate dalla transazione",
+        "answer_4": "Si avviano le operazioni specificate dalla transazione",
+        "current_anwer": "answer_3",
+        "module": "modulo 27",
+        "link_pdf": ""
+    },
+    {
+        "question": "Le proprietà acide di una transazione sono:",
+        "answer_1": 5,
+        "answer_2": 4,
+        "answer_3": 3,
+        "answer_4": 2,
+        "current_anwer": "answer_2",
+        "module": "modulo 27",
+        "link_pdf": ""
+    },
+    {
+        "question": "Una transazione è 'Consistente' quando:",
+        "answer_1": "La sequenza di operazioni sulla base di dati viene eseguita per intero e poi annullata",
+        "answer_2": "La sequenza di operazioni sulla base di dati non viene eseguita",
+        "answer_3": "La sequenza di operazioni sulla base di dati viene eseguita per intero o per niente",
+        "answer_4": "La sequenza di operazioni sulla base di dati viene eseguita per intero",
+        "current_anwer": "answer_3",
+        "module": "modulo 27",
+        "link_pdf": ""
+    },
+    {
+        "question": "Una transazione è 'Coerente' quando:",
+        "answer_1": "Il suo effetto è nullo",
+        "answer_2": "Il suo effetto è incoerente",
+        "answer_3": "Il suo effetto è misurabile",
+        "answer_4": "Il suo effetto è coerente",
+        "current_anwer": "answer_4",
+        "module": "modulo 27",
+        "link_pdf": ""
+    },
+    {
+        "question": "Il comando COMMIT WORK:",
+        "answer_1": "Avvia le operazioni sulla base di dati",
+        "answer_2": "Ferma le operazioni effettuate sulla base di dati",
+        "answer_3": "Avvia tutte le query sulla base di dati",
+        "answer_4": "Avvia un trigger",
+        "current_anwer": "answer_1",
+        "module": "modulo 27",
+        "link_pdf": ""
+    },
+    {
+        "question": "Un sistema 'Transazionale' è un sistema dove:",
+        "answer_1": "Esistono le operazioni di commit e rollback",
+        "answer_2": "Valgono almeno due delle proprietà acide della transazioni",
+        "answer_3": "Valgono le proprietà acide della transazioni",
+        "answer_4": "Valgono i trigger",
+        "current_anwer": "answer_3",
+        "module": "modulo 27",
+        "link_pdf": ""
+    },
+    {
+        "question": "le funzioni scalari sono suddivise in:",
+        "answer_1": "Famiglie",
+        "answer_2": "Attributi",
+        "answer_3": "Schemi",
+        "answer_4": "Relazioni",
+        "current_anwer": "answer_1",
+        "module": "modulo 26",
+        "link_pdf": ""
+    },
+    {
+        "question": "Le funzioni scalari possono essere utilizzate:",
+        "answer_1": "All'esterno di espressioni complesse",
+        "answer_2": "All'interno di espressioni",
+        "answer_3": "All'interno della clausola WHERE",
+        "answer_4": "All'interno della clausola JOIN",
+        "current_anwer": "answer_2",
+        "module": "modulo 26",
+        "link_pdf": ""
+    },
+    {
+        "question": "La funzione char_lenght() restituisce:",
+        "answer_1": "Il numero di caratteri numerici di una stringa",
+        "answer_2": "I caratteri di una stringa",
+        "answer_3": "La lunghezza di una stringa",
+        "answer_4": "Il numero di caratteri letterali di una stringa",
+        "current_anwer": "answer_3",
+        "module": "modulo 26",
+        "link_pdf": ""
+    },
+    {
+        "question": "La funzione cast() consente di:",
+        "answer_1": "Modificare valori numerici",
+        "answer_2": "Modificare valori solo letterali",
+        "answer_3": "Cancellare numeri da una stringa",
+        "answer_4": "Convertire valori da un dominio ad un altro",
+        "current_anwer": "answer_4",
+        "module": "modulo 26",
+        "link_pdf": ""
+    },
+    {
+        "question": "Le famiglie di funzioni condizionali sono:",
+        "answer_1": 3,
+        "answer_2": 4,
+        "answer_3": 1,
+        "answer_4": 2,
+        "current_anwer": "answer_1",
+        "module": "modulo 26",
+        "link_pdf": ""
+    },
+    {
+        "question": "La funzione coalescence():",
+        "answer_1": "Restituisce tutti valori nulli di una espressione",
+        "answer_2": "Restituisce il primo valore non nullo",
+        "answer_3": "Restituisce una espressione",
+        "answer_4": "Restituisce una tabella",
+        "current_anwer": "answer_2",
+        "module": "modulo 26",
+        "link_pdf": ""
+    },
+    {
+        "question": "Un trigger è:",
+        "answer_1": "Una particolare tabella",
+        "answer_2": "Una regola attiva in una base di dati",
+        "answer_3": "Una regola passiva in una base di dati",
+        "answer_4": "Un particolare schema di basi di dati",
+        "current_anwer": "answer_2",
+        "module": "modulo 26",
+        "link_pdf": ""
+    },
+    {
+        "question": "Il paradigma di comportamento di un trigger è:",
+        "answer_1": "Evento-Condizione",
+        "answer_2": "Azione-Condizione",
+        "answer_3": "Condizione-Evento",
+        "answer_4": "Evento-Condizione-Azione",
+        "current_anwer": "answer_4",
+        "module": "modulo 26",
+        "link_pdf": ""
+    },
+    {
+        "question": "Quando accade un evento il trigger è:",
+        "answer_1": "Spento",
+        "answer_2": "Interrotto",
+        "answer_3": "Attivato",
+        "answer_4": "Parametrizzato",
+        "current_anwer": "answer_3",
+        "module": "modulo 26",
+        "link_pdf": ""
+    },
+    {
+        "question": "I livelli di granularità di un TRIGGER sono:",
+        "answer_1": 5,
+        "answer_2": 4,
+        "answer_3": 3,
+        "answer_4": 2,
+        "current_anwer": "answer_4",
+        "module": "modulo 26",
+        "link_pdf": ""
+    }
+]
