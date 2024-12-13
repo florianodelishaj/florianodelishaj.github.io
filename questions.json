@@ -501,5 +501,105 @@
         "current_anwer": "answer_4",
         "module": "modulo 38",
         "link_pdf": ""
+    },
+    {
+        "question": "La progettazione concettuale, tra le tante attività prevede:",
+        "answer_1": "L'analisi del software del sistema informatico",
+        "answer_2": "L'analisi dei requisiti",
+        "answer_3": "L'analisi delle prestazioni dell'hardware delle macchine",
+        "answer_4": "L'analisi del numero di macchine collegate",
+        "current_anwer": "answer_2",
+        "module": "modulo 37",
+        "link_pdf": ""
+    },
+    {
+        "question": "Una delle possibili fonti dei requisiti è:",
+        "answer_1": "La modulistica",
+        "answer_2": "Il diagramma E-R",
+        "answer_3": "Il diagramma logico",
+        "answer_4": "Il diagramma fisico",
+        "current_anwer": "answer_1",
+        "module": "modulo 37",
+        "link_pdf": ""
+    },
+    {
+        "question": "Una delle attività di analisi dei requisiti è l'interazione con l'utente la quale richede anche:",
+        "answer_1": "La richiesta di specifiche funzionali",
+        "answer_2": "La richiesta dello schema fisico",
+        "answer_3": "La richiesta di definizioni e classificazioni",
+        "answer_4": "La richiesta dello schema logico",
+        "current_anwer": "answer_3",
+        "module": "modulo 37",
+        "link_pdf": ""
+    },
+    {
+        "question": "Nella documentazione descrittiva di una realtà di interesse è necessario:",
+        "answer_1": "Scrivere le frasi solo sui ruoli dell'utente",
+        "answer_2": "Scrivere le frasi solo sulle funzioni",
+        "answer_3": "Scrivere solo le frasi sui dati",
+        "answer_4": "Separare le frasi sui dati da quelle sulle funzioni",
+        "current_anwer": "answer_4",
+        "module": "modulo 37",
+        "link_pdf": ""
+    },
+    {
+        "question": "Il Glossario dei termini, per ogni termine deve contenere:",
+        "answer_1": "Una descrizione, eventuali sinonimi e i collegamenti con altri termini",
+        "answer_2": "Una descrizione sommaria e non strutturata dei termini di dominio",
+        "answer_3": "Una descrizione dei sinonimi e delle entità",
+        "answer_4": "Una descrizione dei termini e delle relazioni",
+        "current_anwer": "answer_1",
+        "module": "modulo 37",
+        "link_pdf": ""
+    },
+    {
+        "question": "L'analisi dei requisiti consiste nel:",
+        "answer_1": "Chiarimento e nell'organizzazione delle specifiche logiche",
+        "answer_2": "Chiarimento e nell'organizzazione delle specifiche dei requisiti",
+        "answer_3": "Chiarimento e nell'organizzazione delle specifiche del diagramma E-R",
+        "answer_4": "Chiarimento e nell'organizzazione delle specifiche di progettazione",
+        "current_anwer": "answer_2",
+        "module": "modulo 37",
+        "link_pdf": ""
+    },
+    {
+        "question": "I requisiti di un'applicazioneprovengono:",
+        "answer_1": "Da esperti informatici",
+        "answer_2": "Da fonti diverse",
+        "answer_3": "Solo dagli utenti finali",
+        "answer_4": "Solo dai committenti",
+        "current_anwer": "answer_2",
+        "module": "modulo 37",
+        "link_pdf": ""
+    },
+    {
+        "question": "Nell'analisi dei requisiti di una realtà di interesse, le eventuali realizzazion preesistenti:",
+        "answer_1": "Devono essere prese in considerazione solo se ancora funzionanti",
+        "answer_2": "Non fanno parte della documentazione di interesse",
+        "answer_3": "Devono essere sicuramente prese sempre in considerazione",
+        "answer_4": "Devono essere prese in considerazione solo se non più funzionanti",
+        "current_anwer": "answer_3",
+        "module": "modulo 37",
+        "link_pdf": ""
+    },
+    {
+        "question": "Per caratteristiche del sistema si intendono:",
+        "answer_1": "Solo gli aspetti dinamici del sistema",
+        "answer_2": "Solo gli aspetti statici del sistema",
+        "answer_3": "Sia gli aspetti statici che gli aspetti dinamici",
+        "answer_4": "Dipende dalla tipologia di sistema",
+        "current_anwer": "answer_3",
+        "module": "modulo 37",
+        "link_pdf": ""
+    },
+    {
+        "question": "Nell'analisi dei requisiti, le verifiche di comprensione e consistenza delle informazioni che si raccolgono vanno fatte:",
+        "answer_1": "Con il glossario dei dati",
+        "answer_2": "Con la semplificazione del sosftware",
+        "answer_3": "Con lettura delle documentazione",
+        "answer_4": "Con interviste all'utente",
+        "current_anwer": "answer_4",
+        "module": "modulo 37",
+        "link_pdf": ""
     }
 ]
