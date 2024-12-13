@@ -20,12 +20,24 @@ body {
     border-radius: 5px;
 }
 
+.title {
+    margin-bottom: 10px;
+}
+
 label {
     display: block;
     margin-bottom: 5px;
+    font-size: 28px;
+}
+
+input {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
 }
 
 #submit-button {
+    width: 100px;
     display: block;
     margin: 20px 0;
     padding: 10px 20px;

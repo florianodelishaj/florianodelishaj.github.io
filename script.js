@@ -31,7 +31,8 @@ function initializeQuiz(questions) {
 
 // Funzione per ottenere domande casuali
 function getRandomQuestions(questions, num) {
-    const shuffled = questions.sort(() => 0.5 - Math.random());
+    const uniqueQuestions = Array.from(new Set(questions));
+    const shuffled = uniqueQuestions.sort(() => 0.5 - Math.random());
     return shuffled.slice(0, num);
 }
 
@@ -41,7 +42,8 @@ function createQuestionElement(question, index) {
     div.className = 'question-card';
 
     // Titolo della domanda
-    const questionText = document.createElement('p');
+    const questionText = document.createElement('h1');
+    questionText.classList.add("title");
     questionText.textContent = `${index + 1}. ${question.question}`;
     div.appendChild(questionText);
 
