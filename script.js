@@ -94,8 +94,6 @@ function evaluateAnswers(questions) {
     return results;
 }
 
-
-// Mostra i risultati
 // Mostra i risultati
 function displayResults(results, resultContainer, quizContainer) {
     let correctCount = 0;
@@ -114,18 +112,27 @@ function displayResults(results, resultContainer, quizContainer) {
 
         // Aggiungi il link PDF e il modulo
         const pdfLink = document.createElement('a');
-        pdfLink.href = questionData.link_pdf;
+        pdfLink.href = "./pdf/" + questionData.link_pdf + ".pdf";
         pdfLink.target = '_blank';
-        pdfLink.textContent = 'Scarica PDF';
+        pdfLink.textContent = 'Scarica Dispensa';
         pdfLink.style.marginRight = '10px';
 
+        let paragraph;
+        if(questionData.paragraph) {
+            paragraph = document.createElement('span');
+            paragraph.textContent = `Paragrafo di riferimento - ${questionData.paragraph}`;
+        }
+
         const moduleInfo = document.createElement('span');
-        moduleInfo.textContent = `Modulo: ${questionData.module}`;
+        moduleInfo.textContent = `Modulo: ${questionData.module} `;
 
         // Aggiungi i nuovi elementi al card
         const additionalInfo = document.createElement('div');
         additionalInfo.appendChild(pdfLink);
         additionalInfo.appendChild(moduleInfo);
+        if (questionData.paragraph) {
+            additionalInfo.appendChild(paragraph);
+        }
         questionCard.appendChild(additionalInfo);
     });
 
