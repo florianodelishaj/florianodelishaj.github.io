@@ -5,7 +5,7 @@
         "answer_2": "Metodologico e umano",
         "answer_3": "Software e Hardware",
         "answer_4": "Progettuale e concettuale",
-        "current_anwer": "answer_1",
+        "currect_answer": "answer_1",
         "module": "modulo 1",
         "paragraph": "Definizioni",
         "link_pdf": "base_di_dati/dispensa_1"
@@ -16,7 +16,7 @@
         "answer_2": "Un insieme organizzato di dati utilizzati per il supporto allo svolgimento di attività",
         "answer_3": "Un insieme disomogeneo di dati",
         "answer_4": "Un insieme organizzato di dati creati per il supporto al reparto software di un'azienda",
-        "current_anwer": "answer_2",
+        "currect_answer": "answer_2",
         "module": "modulo 1",
         "paragraph": "Definizioni",
         "link_pdf": "base_di_dati/dispensa_1"
@@ -27,7 +27,7 @@
         "answer_2": "Una componente di una organizzazione che gestisce il software",
         "answer_3": "Una componente di una organizzazione che gestisce le informazioni di interesse",
         "answer_4": "Una componente di una organizzazione che gestisce solo i dati di interesse",
-        "current_anwer": "answer_3",
+        "currect_answer": "answer_3",
         "module": "modulo 1",
         "paragraph": "Definizioni",
         "link_pdf": "base_di_dati/dispensa_1"
@@ -38,7 +38,7 @@
         "answer_2": "Un insieme di apparecchiature hardware",
         "answer_3": "Una insieme di processi aziendali",
         "answer_4": "Una porzione automatizzata del sistema informativo",
-        "current_anwer": "answer_4",
+        "currect_answer": "answer_4",
         "module": "modulo 1",
         "paragraph": "Definizioni",
         "link_pdf": "base_di_dati/dispensa_1"
@@ -49,7 +49,7 @@
         "answer_2": "Dipende dagli asset informatici aziendali",
         "answer_3": "Dipende dalle procedure software di un'azienda",
         "answer_4": "E' indipendente dal flusso informativo aziendale",
-        "current_anwer": "answer_1",
+        "currect_answer": "answer_1",
         "module": "modulo 1",
         "paragraph": "Gestione delle informazioni",
         "link_pdf": "base_di_dati/dispensa_1"
@@ -60,7 +60,7 @@
         "answer_2": "4",
         "answer_3": "5",
         "answer_4": "6",
-        "current_anwer": "answer_2",
+        "currect_answer": "answer_2",
         "module": "modulo 1",
         "paragraph": "Gestione delle informazioni",
         "link_pdf": "base_di_dati/dispensa_1"
@@ -71,7 +71,7 @@
         "answer_2": "Programmi software",
         "answer_3": "Dati",
         "answer_4": "Componenti hardware",
-        "current_anwer": "answer_3",
+        "currect_answer": "answer_3",
         "module": "modulo 1",
         "paragraph": "Informazioni e dati",
         "link_pdf": "base_di_dati/dispensa_1"
@@ -82,7 +82,7 @@
         "answer_2": "Tra le attività di un sistema informatico",
         "answer_3": "Tra le attività legate alle componenti hardware installate in un'azienda",
         "answer_4": "Tra le attività di un Sistema Informativo",
-        "current_anwer": "answer_4",
+        "currect_answer": "answer_4",
         "module": "modulo 1",
         "paragraph": "Gestione delle informazioni",
         "link_pdf": "base_di_dati/dispensa_1"
@@ -93,7 +93,7 @@
         "answer_2": "Un Sistema Informatico",
         "answer_3": "Un programma software di gestione delle informazioni",
         "answer_4": "Un Sistema gestionale di automazione delle procedure",
-        "current_anwer": "answer_1",
+        "currect_answer": "answer_1",
         "module": "modulo 1",
         "paragraph": "Definizioni",
         "link_pdf": "base_di_dati/dispensa_1"
@@ -104,7 +104,7 @@
         "answer_2": "Gestione delle informazioni",
         "answer_3": "Gestione del software",
         "answer_4": "Gestione delle procedure aziendali",
-        "current_anwer": "answer_2",
+        "currect_answer": "answer_2",
         "module": "modulo 1",
         "paragraph": "Gestione delle informazioni",
         "link_pdf": "base_di_dati/dispensa_1"
@@ -115,7 +115,7 @@
         "answer_2": "Attributi",
         "answer_3": "Schemi",
         "answer_4": "Relazioni",
-        "current_anwer": "answer_1",
+        "currect_answer": "answer_1",
         "module": "modulo 26",
         "link_pdf": ""
     },
@@ -125,7 +125,7 @@
         "answer_2": "All'interno di espressioni",
         "answer_3": "All'interno della clausola WHERE",
         "answer_4": "All'interno della clausola JOIN",
-        "current_anwer": "answer_2",
+        "currect_answer": "answer_2",
         "module": "modulo 26",
         "link_pdf": ""
     },
@@ -135,7 +135,7 @@
         "answer_2": "I caratteri di una stringa",
         "answer_3": "La lunghezza di una stringa",
         "answer_4": "Il numero di caratteri letterali di una stringa",
-        "current_anwer": "answer_3",
+        "currect_answer": "answer_3",
         "module": "modulo 26",
         "link_pdf": ""
     },
@@ -145,7 +145,7 @@
         "answer_2": "Modificare valori solo letterali",
         "answer_3": "Cancellare numeri da una stringa",
         "answer_4": "Convertire valori da un dominio ad un altro",
-        "current_anwer": "answer_4",
+        "currect_answer": "answer_4",
         "module": "modulo 26",
         "link_pdf": ""
     },
@@ -155,7 +155,7 @@
         "answer_2": 4,
         "answer_3": 1,
         "answer_4": 2,
-        "current_anwer": "answer_1",
+        "currect_answer": "answer_1",
         "module": "modulo 26",
         "link_pdf": ""
     },
@@ -165,7 +165,7 @@
         "answer_2": "Restituisce il primo valore non nullo",
         "answer_3": "Restituisce una espressione",
         "answer_4": "Restituisce una tabella",
-        "current_anwer": "answer_2",
+        "currect_answer": "answer_2",
         "module": "modulo 26",
         "link_pdf": ""
     },
@@ -175,7 +175,7 @@
         "answer_2": "Una regola attiva in una base di dati",
         "answer_3": "Una regola passiva in una base di dati",
         "answer_4": "Un particolare schema di basi di dati",
-        "current_anwer": "answer_2",
+        "currect_answer": "answer_2",
         "module": "modulo 26",
         "link_pdf": ""
     },
@@ -185,7 +185,7 @@
         "answer_2": "Azione-Condizione",
         "answer_3": "Condizione-Evento",
         "answer_4": "Evento-Condizione-Azione",
-        "current_anwer": "answer_4",
+        "currect_answer": "answer_4",
         "module": "modulo 26",
         "link_pdf": ""
     },
@@ -195,7 +195,7 @@
         "answer_2": "Interrotto",
         "answer_3": "Attivato",
         "answer_4": "Parametrizzato",
-        "current_anwer": "answer_3",
+        "currect_answer": "answer_3",
         "module": "modulo 26",
         "link_pdf": ""
     },
@@ -205,7 +205,7 @@
         "answer_2": 4,
         "answer_3": 3,
         "answer_4": 2,
-        "current_anwer": "answer_4",
+        "currect_answer": "answer_4",
         "module": "modulo 26",
         "link_pdf": ""
     },
@@ -215,7 +215,7 @@
         "answer_2": "Se il privilegio può riguardare una transazione",
         "answer_3": "Se il privilegio rilascia l'opzione di variazione schema",
         "answer_4": "Se l'utente non deve avere privilegi",
-        "current_anwer": "answer_1",
+        "currect_answer": "answer_1",
         "module": "modulo 27",
         "link_pdf": ""
     },
@@ -225,7 +225,7 @@
         "answer_2": "Attraverso una query",
         "answer_3": "Attraverso una espressione",
         "answer_4": "Attraverso un operatore relazionale",
-        "current_anwer": "answer_1",
+        "currect_answer": "answer_1",
         "module": "modulo 27",
         "link_pdf": ""
     },
@@ -235,7 +235,7 @@
         "answer_2": "La propagazione delle Transazioni",
         "answer_3": "La propagazione degli UPDATE",
         "answer_4": "La propagazione delle SELECT",
-        "current_anwer": "answer_1",
+        "currect_answer": "answer_1",
         "module": "modulo 27",
         "link_pdf": ""
     },
@@ -245,7 +245,7 @@
         "answer_2": "Alla fine dei comandi SQL",
         "answer_3": "Al primo comando SQL",
         "answer_4": "Al secondo comando SQL",
-        "current_anwer": "answer_3",
+        "currect_answer": "answer_3",
         "module": "modulo 27",
         "link_pdf": ""
     },
@@ -255,7 +255,7 @@
         "answer_2": "Si rinuncia all'esecuzione delle operazioni specificate prima della transazione",
         "answer_3": "Si rinuncia all'esecuzione delle operazioni specificate dalla transazione",
         "answer_4": "Si avviano le operazioni specificate dalla transazione",
-        "current_anwer": "answer_3",
+        "currect_answer": "answer_3",
         "module": "modulo 27",
         "link_pdf": ""
     },
@@ -265,7 +265,7 @@
         "answer_2": 4,
         "answer_3": 3,
         "answer_4": 2,
-        "current_anwer": "answer_2",
+        "currect_answer": "answer_2",
         "module": "modulo 27",
         "link_pdf": ""
     },
@@ -275,7 +275,7 @@
         "answer_2": "La sequenza di operazioni sulla base di dati non viene eseguita",
         "answer_3": "La sequenza di operazioni sulla base di dati viene eseguita per intero o per niente",
         "answer_4": "La sequenza di operazioni sulla base di dati viene eseguita per intero",
-        "current_anwer": "answer_3",
+        "currect_answer": "answer_3",
         "module": "modulo 27",
         "link_pdf": ""
     },
@@ -285,7 +285,7 @@
         "answer_2": "Il suo effetto è incoerente",
         "answer_3": "Il suo effetto è misurabile",
         "answer_4": "Il suo effetto è coerente",
-        "current_anwer": "answer_4",
+        "currect_answer": "answer_4",
         "module": "modulo 27",
         "link_pdf": ""
     },
@@ -295,7 +295,7 @@
         "answer_2": "Ferma le operazioni effettuate sulla base di dati",
         "answer_3": "Avvia tutte le query sulla base di dati",
         "answer_4": "Avvia un trigger",
-        "current_anwer": "answer_1",
+        "currect_answer": "answer_1",
         "module": "modulo 27",
         "link_pdf": ""
     },
@@ -305,7 +305,7 @@
         "answer_2": "Valgono almeno due delle proprietà acide della transazioni",
         "answer_3": "Valgono le proprietà acide della transazioni",
         "answer_4": "Valgono i trigger",
-        "current_anwer": "answer_3",
+        "currect_answer": "answer_3",
         "module": "modulo 27",
         "link_pdf": ""
     },
@@ -315,7 +315,7 @@
         "answer_2": "e' una delle attività di sviluppo di un sistema informativo",
         "answer_3": "e' una delle attività di sviluppo di un sistema informatico",
         "answer_4": "e' una delle attività di sviluppo di un programma software",
-        "current_anwer": "answer_2",
+        "currect_answer": "answer_2",
         "module": "modulo 28",
         "link_pdf": ""
     },
@@ -325,7 +325,7 @@
         "answer_2": "la sequenzializzazione delle attività svolte da analisti, progettisti, utenti",
         "answer_3": "l'insieme e la sequenzializzazione delle attività svolte da analisti, progettisti, utenti",
         "answer_4": "l'insieme delle attività svolte da analisti, progettisti, utenti",
-        "current_anwer": "answer_3",
+        "currect_answer": "answer_3",
         "module": "modulo 28",
         "link_pdf": ""
     },
@@ -335,7 +335,7 @@
         "answer_2": "5 fasi",
         "answer_3": "7 fasi",
         "answer_4": "4 fasi",
-        "current_anwer": "answer_1",
+        "currect_answer": "answer_1",
         "module": "modulo 28",
         "link_pdf": ""
     },
@@ -345,7 +345,7 @@
         "answer_2": "serve a definire solo i costi",
         "answer_3": "serve a definire solo le priorità di un sistema informativo",
         "answer_4": "serve a definire gli attori di processo",
-        "current_anwer": "answer_1",
+        "currect_answer": "answer_1",
         "module": "modulo 28",
         "link_pdf": ""
     },
@@ -355,7 +355,7 @@
         "answer_2": "viene prodotto solo il codice dei programmi",
         "answer_3": "viene costruita e popolata la sola base di dati",
         "answer_4": "viene costruita e popolata la base di dati e viene prodotto il codice dei programmi",
-        "current_anwer": "answer_4",
+        "currect_answer": "answer_4",
         "module": "modulo 28",
         "link_pdf": ""
     },
@@ -365,7 +365,7 @@
         "answer_2": "serve a verificare il corretto funzionamento e la qualità del sistema informativo",
         "answer_3": "serve a verificare solo la qualità del sistema informativo",
         "answer_4": "serve a verificare solo il corretto funzionamento del sistema informativo",
-        "current_anwer": "answer_2",
+        "currect_answer": "answer_2",
         "module": "modulo 28",
         "link_pdf": ""
     },
@@ -375,7 +375,7 @@
         "answer_2": "solo sulla progettazione delle applicazioni",
         "answer_3": "sulla progettazione dei dati e delle applicazioni",
         "answer_4": "solo sulla progettazione dei dati",
-        "current_anwer": "answer_3",
+        "currect_answer": "answer_3",
         "module": "modulo 28",
         "link_pdf": ""
     },
@@ -385,7 +385,7 @@
         "answer_2": "e' sempre e solo iterativo su più cicli",
         "answer_3": "può essere a tratti sequenziale ed a tratti iterativo su più fasi",
         "answer_4": "e' solo a cascata",
-        "current_anwer": "answer_3",
+        "currect_answer": "answer_3",
         "module": "modulo 28",
         "link_pdf": ""
     },
@@ -395,7 +395,7 @@
         "answer_2": "tutto un sistema informatico",
         "answer_3": "tutto un sistema informativo",
         "answer_4": "solo una parte di un sistema informativo",
-        "current_anwer": "answer_4",
+        "currect_answer": "answer_4",
         "module": "modulo 28",
         "link_pdf": ""
     },
@@ -405,7 +405,7 @@
         "answer_2": "e' una delle fasi standard del ciclo di vita di un sistema informativo",
         "answer_3": "e' sempre la prima fase del ciclo di vita di un sistema informativo",
         "answer_4": "e' la fase di consegna all'utente finale di un sistema informativo",
-        "current_anwer": "answer_1",
+        "currect_answer": "answer_1",
         "module": "modulo 28",
         "link_pdf": ""
     },
@@ -415,7 +415,7 @@
         "answer_2": "L'analisi dei requisiti",
         "answer_3": "L'analisi delle prestazioni dell'hardware delle macchine",
         "answer_4": "L'analisi del numero di macchine collegate",
-        "current_anwer": "answer_2",
+        "currect_answer": "answer_2",
         "module": "modulo 37",
         "link_pdf": ""
     },
@@ -425,7 +425,7 @@
         "answer_2": "Il diagramma E-R",
         "answer_3": "Il diagramma logico",
         "answer_4": "Il diagramma fisico",
-        "current_anwer": "answer_1",
+        "currect_answer": "answer_1",
         "module": "modulo 37",
         "link_pdf": ""
     },
@@ -435,7 +435,7 @@
         "answer_2": "La richiesta dello schema fisico",
         "answer_3": "La richiesta di definizioni e classificazioni",
         "answer_4": "La richiesta dello schema logico",
-        "current_anwer": "answer_3",
+        "currect_answer": "answer_3",
         "module": "modulo 37",
         "link_pdf": ""
     },
@@ -445,7 +445,7 @@
         "answer_2": "Scrivere le frasi solo sulle funzioni",
         "answer_3": "Scrivere solo le frasi sui dati",
         "answer_4": "Separare le frasi sui dati da quelle sulle funzioni",
-        "current_anwer": "answer_4",
+        "currect_answer": "answer_4",
         "module": "modulo 37",
         "link_pdf": ""
     },
@@ -455,7 +455,7 @@
         "answer_2": "Una descrizione sommaria e non strutturata dei termini di dominio",
         "answer_3": "Una descrizione dei sinonimi e delle entità",
         "answer_4": "Una descrizione dei termini e delle relazioni",
-        "current_anwer": "answer_1",
+        "currect_answer": "answer_1",
         "module": "modulo 37",
         "link_pdf": ""
     },
@@ -465,7 +465,7 @@
         "answer_2": "Chiarimento e nell'organizzazione delle specifiche dei requisiti",
         "answer_3": "Chiarimento e nell'organizzazione delle specifiche del diagramma E-R",
         "answer_4": "Chiarimento e nell'organizzazione delle specifiche di progettazione",
-        "current_anwer": "answer_2",
+        "currect_answer": "answer_2",
         "module": "modulo 37",
         "link_pdf": ""
     },
@@ -475,7 +475,7 @@
         "answer_2": "Da fonti diverse",
         "answer_3": "Solo dagli utenti finali",
         "answer_4": "Solo dai committenti",
-        "current_anwer": "answer_2",
+        "currect_answer": "answer_2",
         "module": "modulo 37",
         "link_pdf": ""
     },
@@ -485,7 +485,7 @@
         "answer_2": "Non fanno parte della documentazione di interesse",
         "answer_3": "Devono essere sicuramente prese sempre in considerazione",
         "answer_4": "Devono essere prese in considerazione solo se non più funzionanti",
-        "current_anwer": "answer_3",
+        "currect_answer": "answer_3",
         "module": "modulo 37",
         "link_pdf": ""
     },
@@ -495,7 +495,7 @@
         "answer_2": "Solo gli aspetti statici del sistema",
         "answer_3": "Sia gli aspetti statici che gli aspetti dinamici",
         "answer_4": "Dipende dalla tipologia di sistema",
-        "current_anwer": "answer_3",
+        "currect_answer": "answer_3",
         "module": "modulo 37",
         "link_pdf": ""
     },
@@ -505,7 +505,7 @@
         "answer_2": "Con la semplificazione del software",
         "answer_3": "Con lettura delle documentazione",
         "answer_4": "Con interviste all'utente",
-        "current_anwer": "answer_4",
+        "currect_answer": "answer_4",
         "module": "modulo 37",
         "link_pdf": ""
     },
@@ -515,7 +515,7 @@
         "answer_2": "Le definizioni dei costrutti de modello E-R",
         "answer_3": "Le definizioni dei costrutti de modello logico",
         "answer_4": "Le definizioni dei costrutti de modello fisico",
-        "current_anwer": "answer_2",
+        "currect_answer": "answer_2",
         "module": "modulo 38",
         "link_pdf": ""
     },
@@ -525,7 +525,7 @@
         "answer_2": "Mai",
         "answer_3": "A volte",
         "answer_4": "Dipende dal contesto logico",
-        "current_anwer": "answer_3",
+        "currect_answer": "answer_3",
         "module": "modulo 38",
         "link_pdf": ""
     },
@@ -535,7 +535,7 @@
         "answer_2": "Un attributo",
         "answer_3": "Una relazione",
         "answer_4": "Una entità",
-        "current_anwer": "answer_4",
+        "currect_answer": "answer_4",
         "module": "modulo 38",
         "link_pdf": ""
     },
@@ -545,7 +545,7 @@
         "answer_2": "Entità",
         "answer_3": "Relazione",
         "answer_4": "Generalizzazione",
-        "current_anwer": "answer_1",
+        "currect_answer": "answer_1",
         "module": "modulo 38",
         "link_pdf": ""
     },
@@ -555,7 +555,7 @@
         "answer_2": "Relazione",
         "answer_3": "Entità",
         "answer_4": "Generalizzazione",
-        "current_anwer": "answer_2",
+        "currect_answer": "answer_2",
         "module": "modulo 38",
         "link_pdf": ""
     },
@@ -566,7 +566,7 @@
         "answer_2": "Una entità con identificatore l'attributo Nome",
         "answer_3": "Una entità con identificatore l'attributo Indirizzo",
         "answer_4": "Una entità con identificatore Indirizzo+nome",
-        "current_anwer": "answer_1",
+        "currect_answer": "answer_1",
         "module": "modulo 38",
         "link_pdf": ""
     },
@@ -577,7 +577,7 @@
         "answer_2": "L'entità Prestito con quattro attributi (nessun identificatore)",
         "answer_3": "L'entità Prestito con quattro attributi, tutti identificatori",
         "answer_4": "La relazione Prestito con quattro attributi",
-        "current_anwer": "answer_2",
+        "currect_answer": "answer_2",
         "module": "modulo 38",
         "link_pdf": ""
     },
@@ -588,7 +588,7 @@
         "answer_2": "Attributo",
         "answer_3": "Generalizzazione",
         "answer_4": "Entità",
-        "current_anwer": "answer_3",
+        "currect_answer": "answer_3",
         "module": "modulo 38",
         "link_pdf": ""
     },
@@ -598,7 +598,7 @@
         "answer_2": "generalizzazione",
         "answer_3": "Una entità",
         "answer_4": "Un attributo",
-        "current_anwer": "answer_2",
+        "currect_answer": "answer_2",
         "module": "modulo 38",
         "link_pdf": ""
     },
@@ -608,7 +608,7 @@
         "answer_2": "Un attributo",
         "answer_3": "Una entità",
         "answer_4": "Una relazione",
-        "current_anwer": "answer_4",
+        "currect_answer": "answer_4",
         "module": "modulo 38",
         "link_pdf": ""
     },
@@ -618,7 +618,7 @@
         "answer_2": "Una soluzione progettuale generale ad un problema particolare",
         "answer_3": "Una soluzione progettuale particolare ad un problema ricorrente",
         "answer_4": "Una soluzione software particolare ad un problema ricorrente",
-        "current_anwer": "answer_1",
+        "currect_answer": "answer_1",
         "module": "modulo 39",
         "link_pdf": ""
     },
@@ -628,7 +628,7 @@
         "answer_2": "Part-of e Istance-of",
         "answer_3": "Solo istance-of",
         "answer_4": "Solo ricorsivi",
-        "current_anwer": "answer_2",
+        "currect_answer": "answer_2",
         "module": "modulo 39",
         "link_pdf": ""
     },
@@ -638,7 +638,7 @@
         "answer_2": "Quando si individua nelle specifiche un concetto autonomo con proprietà associate, come relazione",
         "answer_3": "Quando si individua nelle specifiche un concetto autonomo con proprietà associate, come attributo",
         "answer_4": "Quando si individua nelle specifiche un concetto autonomo con proprietà associate, come entità",
-        "current_anwer": "answer_3",
+        "currect_answer": "answer_3",
         "module": "modulo 39",
         "link_pdf": ""
     },
@@ -648,7 +648,7 @@
         "answer_2": "L'attributo viene promosso ad entità",
         "answer_3": "L'attributo viene eliminato",
         "answer_4": "L'attributo viene promosso a relazione",
-        "current_anwer": "answer_2",
+        "currect_answer": "answer_2",
         "module": "modulo 39",
         "link_pdf": ""
     },
@@ -658,7 +658,7 @@
         "answer_2": "Riguarda una entità che è parte di un'altra relazione in una relazione molti-a-molti",
         "answer_3": "Riguarda una entità che è parte di un'altra entità in una relazione molti-a-molti",
         "answer_4": "Riguarda una entità che è parte di un'altra entità in una relazione uno-a-molti",
-        "current_anwer": "answer_4",
+        "currect_answer": "answer_4",
         "module": "modulo 39",
         "link_pdf": ""
     },
@@ -668,7 +668,7 @@
         "answer_2": "Le istanze delle occorrenze di una entità di una relazione sono istanze delle occorrenze dell' altra entità",
         "answer_3": "Le istanze delle occorrenze di una entità di una relazione sono istanze delle occorrenze di un'altra relazione",
         "answer_4": "Le istanze delle occorrenze di una entità in una relazione sono istanze delle occorrenze di un attributo composto",
-        "current_anwer": "answer_2",
+        "currect_answer": "answer_2",
         "module": "modulo 39",
         "link_pdf": ""
     },
@@ -678,7 +678,7 @@
         "answer_2": "Si ha una relazione che legaaltre due relazioni",
         "answer_3": "Si ha un concetto che lega altri due concetti",
         "answer_4": "Si ha un concetto che lega due relazioni",
-        "current_anwer": "answer_3",
+        "currect_answer": "answer_3",
         "module": "modulo 39",
         "link_pdf": ""
     },
@@ -688,7 +688,7 @@
         "answer_2": "Si ha una relazione ricorsiva con un'altra entità",
         "answer_3": "Si ha un concetto in relazione ricorsiva con un'altra relazione",
         "answer_4": "Si hanno due concetti ed un terzo concetto in relazione ricorsiva con loro",
-        "current_anwer": "answer_1",
+        "currect_answer": "answer_1",
         "module": "modulo 39",
         "link_pdf": ""
     },
@@ -698,7 +698,7 @@
         "answer_2": "Istance-of",
         "answer_3": "Ricorsivo",
         "answer_4": "uno-a-uno",
-        "current_anwer": "answer_2",
+        "currect_answer": "answer_2",
         "module": "modulo 39",
         "link_pdf": ""
     },
@@ -708,7 +708,7 @@
         "answer_2": "Istance-of",
         "answer_3": "Ricorsivo",
         "answer_4": "uno-a-uno",
-        "current_anwer": "answer_1",
+        "currect_answer": "answer_1",
         "module": "modulo 39",
         "link_pdf": ""
     },
@@ -719,7 +719,7 @@
         "answer_2": "la reificazione sia dell'attributo strumento sia della relazione PARTECIPAZIONE",
         "answer_3": "solo la reificazione dell'attributo strumento",
         "answer_4": "solo la reificazione della relazione PARTECIPAZIONE",
-        "current_anwer": "answer_2",
+        "currect_answer": "answer_2",
         "module": "modulo 40",
         "link_pdf": "base_di_dati/dispensa_40"
     },
@@ -729,7 +729,7 @@
         "answer_2": "tenere conto dello storico di un concetto",
         "answer_3": "tenere conto dell'evoluzione relazionale del concetto",
         "answer_4": "tenere conto dell'evoluzione degli attributi del concetto",
-        "current_anwer": "answer_2",
+        "currect_answer": "answer_2",
         "module": "modulo 40",
         "link_pdf": "base_di_dati/dispensa_40"
     },
@@ -739,7 +739,7 @@
         "answer_2": "tenere conto dell'evoluzione funzionale del concetto",
         "answer_3": "tenere conto dell'evoluzione relazionale del concetto",
         "answer_4": "tenere conto dell'evoluzione degli attributi del concetto",
-        "current_anwer": "answer_1",
+        "currect_answer": "answer_1",
         "module": "modulo 40",
         "link_pdf": "base_di_dati/dispensa_40"
     },
@@ -749,7 +749,7 @@
         "answer_2": "trasformare la relazione ternaria in altre relazioni binarie reificando eventualmente una entità ad attributo",
         "answer_3": "trasformare la relazione ternaria in altre relazioni ternarie reificando eventualmente una relazione a entità",
         "answer_4": "trasformare la relazione ternaria in relazioni binarie reificando eventualmente una relazione a entità",
-        "current_anwer": "answer_4",
+        "currect_answer": "answer_4",
         "module": "modulo 40",
         "link_pdf": "base_di_dati/dispensa_40"
     },
@@ -759,7 +759,7 @@
         "answer_2": "impossibile da rappresentare",
         "answer_3": "lo standard",
         "answer_4": "altamente sconsigliata",
-        "current_anwer": "answer_4",
+        "currect_answer": "answer_4",
         "module": "modulo 40",
         "link_pdf": "base_di_dati/dispensa_40"
     },
@@ -769,7 +769,7 @@
         "answer_2": "l'evoluzione di un concetto",
         "answer_3": "reificazione ternaria",
         "answer_4": "reificazione di generalizzazione",
-        "current_anwer": "answer_1",
+        "currect_answer": "answer_1",
         "module": "modulo 40",
         "link_pdf": "base_di_dati/dispensa_40"
     },
@@ -779,7 +779,7 @@
         "answer_2": "la storicizzazione di un concetto",
         "answer_3": "l'evoluzione di un concetto",
         "answer_4": "la generalizzazione ternaria",
-        "current_anwer": "answer_2",
+        "currect_answer": "answer_2",
         "module": "modulo 40",
         "link_pdf": "base_di_dati/dispensa_40"
     },
@@ -789,7 +789,7 @@
         "answer_2": "storicizzazone",
         "answer_3": "generalizzazione",
         "answer_4": "attributo di relazione",
-        "current_anwer": "answer_3",
+        "currect_answer": "answer_3",
         "module": "modulo 40",
         "link_pdf": "base_di_dati/dispensa_40"
     },
@@ -799,7 +799,7 @@
         "answer_2": "generalizzazione di un concetto",
         "answer_3": "storicizzazione di un concetto",
         "answer_4": "evoluzione di un concetto",
-        "current_anwer": "answer_4",
+        "currect_answer": "answer_4",
         "module": "modulo 40",
         "link_pdf": "base_di_dati/dispensa_40"
     },
@@ -809,7 +809,7 @@
         "answer_2": "generalizzazione di un concetto",
         "answer_3": "storicizzazione di un concetto",
         "answer_4": "evoluzione di un concetto",
-        "current_anwer": "answer_3",
+        "currect_answer": "answer_3",
         "module": "modulo 40",
         "link_pdf": "base_di_dati/dispensa_40"
     }
