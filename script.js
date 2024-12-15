@@ -79,7 +79,7 @@ function evaluateAnswers(questions) {
         if (selectedAnswer) {
             results.push({
                 questionId: question.id,
-                isCorrect: selectedAnswer.value === question.current_anwer,
+                isCorrect: selectedAnswer.value === question.currect_answer,
                 questionData: question // Aggiungi i dettagli della domanda
             });
         } else {
