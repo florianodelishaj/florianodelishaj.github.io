@@ -101,6 +101,7 @@ function displayResults(results, resultContainer, quizContainer) {
     results.forEach((result, index) => {
         const questionCard = quizContainer.children[index];
         const questionData = results[index].questionData;
+        let currectAnswer;
 
         // Aggiungi colore in base alla correttezza
         if (result.isCorrect) {
@@ -108,6 +109,8 @@ function displayResults(results, resultContainer, quizContainer) {
             questionCard.style.backgroundColor = 'lightgreen';
         } else {
             questionCard.style.backgroundColor = 'lightcoral';
+            currectAnswer = document.createElement('p');
+            currectAnswer.textContent = `Risposta corretta: ${questionData[questionData.currectAnswer]}`;
         }
 
         // Aggiungi il link PDF e il modulo
@@ -132,6 +135,9 @@ function displayResults(results, resultContainer, quizContainer) {
         additionalInfo.appendChild(moduleInfo);
         if (questionData.paragraph) {
             additionalInfo.appendChild(paragraph);
+        }
+        if (!result.isCorrect) {
+            questionCard.appendChild(currectAnswer)
         }
         questionCard.appendChild(additionalInfo);
     });
