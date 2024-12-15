@@ -561,7 +561,7 @@
     },
     {
         "question": "La figura rappresenta",
-        "img":"domanda_6_modulo_38.jpg",
+        "img":"base_di_dati/domanda_6_modulo_38.jpg",
         "answer_1": "Una entità con identificatore l'attributo codice",
         "answer_2": "Una entità con identificatore l'attributo Nome",
         "answer_3": "Una entità con identificatore l'attributo Indirizzo",
@@ -572,7 +572,7 @@
     },
     {
         "question": "La relazione Prestito senza attributi identificatori",
-        "img":"domanda_7_modulo_38.jpg",
+        "img":"base_di_dati/domanda_7_modulo_38.jpg",
         "answer_1": "La relazione Prestito senza attributi identificatori",
         "answer_2": "L'entità Prestito con quattro attributi (nessun identificatore)",
         "answer_3": "L'entità Prestito con quattro attributi, tutti identificatori",
@@ -583,7 +583,7 @@
     },
     {
         "question": "La figura rappresenta un esempio di",
-        "img":"domanda_8_modulo_38.jpg",
+        "img":"base_di_dati/domanda_8_modulo_38.jpg",
         "answer_1": "Relazione",
         "answer_2": "Attributo",
         "answer_3": "Generalizzazione",
