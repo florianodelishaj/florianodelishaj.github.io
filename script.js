@@ -101,7 +101,6 @@ function displayResults(results, resultContainer, quizContainer) {
     results.forEach((result, index) => {
         const questionCard = quizContainer.children[index];
         const questionData = results[index].questionData;
-        let currectAnswer;
 
         // Aggiungi colore in base alla correttezza
         if (result.isCorrect) {
@@ -109,8 +108,6 @@ function displayResults(results, resultContainer, quizContainer) {
             questionCard.style.backgroundColor = 'lightgreen';
         } else {
             questionCard.style.backgroundColor = 'lightcoral';
-            currectAnswer = document.createElement('p');
-            currectAnswer.textContent = `Risposta corretta: ${questionData[questionData.currectAnswer]}`;
         }
 
         // Aggiungi il link PDF e il modulo
@@ -122,23 +119,26 @@ function displayResults(results, resultContainer, quizContainer) {
 
         let paragraph;
         if(questionData.paragraph) {
-            paragraph = document.createElement('span');
+            paragraph = document.createElement('p');
             paragraph.textContent = `Paragrafo di riferimento - ${questionData.paragraph}`;
         }
 
-        const moduleInfo = document.createElement('span');
+        const moduleInfo = document.createElement('p');
         moduleInfo.textContent = `Modulo: ${questionData.module} `;
 
         // Aggiungi i nuovi elementi al card
         const additionalInfo = document.createElement('div');
-        additionalInfo.appendChild(pdfLink);
         additionalInfo.appendChild(moduleInfo);
         if (questionData.paragraph) {
             additionalInfo.appendChild(paragraph);
         }
         if (!result.isCorrect) {
+            const currectAnswer = document.createElement('p');
+            currectAnswer.textContent = `Risposta corretta: ${questionData[questionData.currect_answer]}`;
+            console.log("questionData",questionData)
             questionCard.appendChild(currectAnswer)
         }
+        additionalInfo.appendChild(pdfLink);
         questionCard.appendChild(additionalInfo);
     });
 

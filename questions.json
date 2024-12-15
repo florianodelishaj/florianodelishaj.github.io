@@ -110,6 +110,996 @@
         "link_pdf": "base_di_dati/dispensa_1"
     },
     {
+        "question": "Una base di dati è:",
+        "answer_1": "Un insieme di dati gestito escusivamente dal file system",
+        "answer_2": "Un insieme di dati gestito da un DBMS",
+        "answer_3": "Un insieme di dati omogeneo di un particolare settore aziendale",
+        "answer_4": "Un insieme di dati organizzati a settori aziendali",
+        "currect_answer": "answer_2",
+        "module": "modulo 2",
+        "paragraph": "Base di Dati",
+        "link_pdf": "base_di_dati/dispensa_2"
+    },
+    {
+        "question": "DBMS sta per:",
+        "answer_1": "Data Base Memory System",
+        "answer_2": "Data Base Management Software",
+        "answer_3": "Data Base Memory Software",
+        "answer_4": "Data Base Management System",
+        "currect_answer": "answer_4",
+        "module": "modulo 2",
+        "paragraph": "Base di Dati",
+        "link_pdf": "base_di_dati/dispensa_2"
+    },
+    {
+        "question": "DB2 è un esempio di:",
+        "answer_1": "DBMS",
+        "answer_2": "DRMS",
+        "answer_3": "DBMM",
+        "answer_4": "DBMM",
+        "currect_answer": "answer_1",
+        "module": "modulo 2",
+        "paragraph": "Base di Dati",
+        "link_pdf": "base_di_dati/dispensa_2"
+    },
+    {
+        "question": "Un DBMS garantisce:",
+        "answer_1": "Solo affidabilità ed efficacia",
+        "answer_2": "Solo efficienza ed efficacia",
+        "answer_3": "Privatezza, Affidabilità, Efficienza ed Efficacia",
+        "answer_4": "Solo Privatezza",
+        "currect_answer": "answer_3",
+        "module": "modulo 2",
+        "paragraph": "Base di Dati",
+        "link_pdf": "base_di_dati/dispensa_2"
+    },
+    {
+        "question": "La ridondanza riguarda:",
+        "answer_1": "Informazioni unitarie",
+        "answer_2": "Informazioni ripetute",
+        "answer_3": "Informazioni numeriche",
+        "answer_4": "Informazioni alfanumeriche",
+        "currect_answer": "answer_3",
+        "module": "modulo 2",
+        "paragraph": "Caratteristiche",
+        "link_pdf": "base_di_dati/dispensa_2"
+    },
+    {
+        "question": "Le basi di dati 'sono grandi' significa che:",
+        "answer_1": "Il DBMS deve essere grande",
+        "answer_2": "Il singolo dato memorizzato non può superare 32 bit",
+        "answer_3": "Non possono essere inferiori di dimensione a 500 MB",
+        "answer_4": "Il limite deve essere solo quello fisico dei dispositivi",
+        "currect_answer": "answer_4",
+        "module": "modulo 2",
+        "paragraph": "Caratteristiche",
+        "link_pdf": "base_di_dati/dispensa_2"
+    },
+    {
+        "question": "La persistenza indica che:",
+        "answer_1": "La base dati ha un tempo limitato di memorizzazione",
+        "answer_2": "Il tempo di memorizzazione della base dati dipende da quante ricerche si fanno",
+        "answer_3": "Le basi dati hanno un tempo di vita indipendente dalle singole esecuzioni dei programmi che le utilizzano",
+        "answer_4": "La vita media di un DBMS dipende dalla quantità di dati da gestire",
+        "currect_answer": "answer_3",
+        "module": "modulo 2",
+        "paragraph": "Caratteristiche",
+        "link_pdf": "base_di_dati/dispensa_2"
+    },
+    {
+        "question": "Quando si lavora con procedure settoriali, i due maggiori rischi sono:",
+        "answer_1": "Ridondanza e incoerenza",
+        "answer_2": "Superamento del limite di memoria e superamento del tempo di attività permesso",
+        "answer_3": "Tempo di attesa e memoria centrale",
+        "answer_4": "Limite dei dischi e del software del DBMS",
+        "currect_answer": "answer_1",
+        "module": "modulo 2",
+        "paragraph": "Caratteristiche",
+        "link_pdf": "base_di_dati/dispensa_2"
+    },
+    {
+        "question": "L'efficienza di un DBMS si misura in termini di:",
+        "answer_1": "Budget e Personale",
+        "answer_2": "Tempo e spazio",
+        "answer_3": "Hardware e software",
+        "answer_4": "Quantità di dati memorizzati",
+        "currect_answer": "answer_2",
+        "module": "modulo 2",
+        "paragraph": "DBMS",
+        "link_pdf": "base_di_dati/dispensa_2"
+    },
+    {
+        "question": "L'affidabilità di un DBMS riguarda:",
+        "answer_1": "Il tempo di vita media del sistema",
+        "answer_2": "Il budget necessario per l'acquisto",
+        "answer_3": "Il numero di interrogazioni che si possono fare",
+        "answer_4": "La resistenza a malfunzionamenti hardware e software",
+        "currect_answer": "answer_4",
+        "module": "modulo 2",
+        "paragraph": "DBMS",
+        "link_pdf": "base_di_dati/dispensa_2"
+    },
+    {
+        "question": "La transazione è:",
+        "answer_1": "Condivisa",
+        "answer_2": "Atomica",
+        "answer_3": "Unica",
+        "answer_4": "Multipla",
+        "currect_answer": "answer_2",
+        "module": "modulo 3",
+        "paragraph": "Transazione",
+        "link_pdf": "base_di_dati/dispensa_3"
+    },
+    {
+        "question": "L'effetto di transazioni concorrenti deve essere:",
+        "answer_1": "Condivisa",
+        "answer_2": "Multimediale",
+        "answer_3": "Coerente",
+        "answer_4": "Assoluta",
+        "currect_answer": "answer_3",
+        "module": "modulo 3",
+        "paragraph": "Transazione",
+        "link_pdf": "base_di_dati/dispensa_3"
+    },
+    {
+        "question": "La conclusione positiva di una transazione corrisponde a:",
+        "answer_1": "Una Selezione",
+        "answer_2": "Una condivisione di informazioni",
+        "answer_3": "Sempre ad una lettura di informazioni",
+        "answer_4": "Una COMMIT",
+        "currect_answer": "answer_4",
+        "module": "modulo 3",
+        "paragraph": "Transazione",
+        "link_pdf": "base_di_dati/dispensa_3"
+    },
+    {
+        "question": "I DBMS devono essere:",
+        "answer_1": "Efficaci ed efficienti",
+        "answer_2": "Efficaci solamente",
+        "answer_3": "Efficienti solamente",
+        "answer_4": "Veloci",
+        "currect_answer": "answer_1",
+        "module": "modulo 3",
+        "paragraph": "DBMS",
+        "link_pdf": "base_di_dati/dispensa_3"
+    },
+    {
+        "question": "I File System prevedono forme di condivisione:",
+        "answer_1": "'Tutto o niente'",
+        "answer_2": "Trasversali",
+        "answer_3": "Monoutente",
+        "answer_4": "Multiutente",
+        "currect_answer": "answer_1",
+        "module": "modulo 3",
+        "paragraph": "DBMS",
+        "link_pdf": "base_di_dati/dispensa_3"
+    },
+    {
+        "question": "La rappresentazione dei dati in un DBMS:",
+        "answer_1": "Dipende dalla rappresentazione fisica",
+        "answer_2": "Dipende dalla rappresentazione logica",
+        "answer_3": "Permette l'indipendenza dei dati dalla rappresentazione fisica",
+        "answer_4": "Permette l'indipendenza dei dati dalla rappresentazione concettuale",
+        "currect_answer": "answer_3",
+        "module": "modulo 3",
+        "paragraph": "DBMS",
+        "link_pdf": "base_di_dati/dispensa_3"
+    },
+    {
+        "question": "Lo Schema di un modello dati:",
+        "answer_1": "Rappresenta l'aspetto procedurale",
+        "answer_2": "Rappresenta l'aspetto di condivisione",
+        "answer_3": "Rappresenta l'aspetto strutturale",
+        "answer_4": "Rappresenta l'aspetto intensionale",
+        "currect_answer": "answer_4",
+        "module": "modulo 3",
+        "paragraph": "Modello dei dati",
+        "link_pdf": "base_di_dati/dispensa_3"
+    },
+    {
+        "question": "L'istanza di un modello di dati riguarda:",
+        "answer_1": "L'aspetto strutturale",
+        "answer_2": "L'aspetto estensionale",
+        "answer_3": "L'aspetto multimediale",
+        "answer_4": "L'aspetto concettuale",
+        "currect_answer": "answer_2",
+        "module": "modulo 3",
+        "paragraph": "Modello dei dati",
+        "link_pdf": "base_di_dati/dispensa_3"
+    },
+    {
+        "question": "Le intestazioni di una tabella:",
+        "answer_1": "Rappresentano un esempio di insieme dati",
+        "answer_2": "Rappresentano un esempio di schema di modello dati",
+        "answer_3": "Rappresentano un esempio di schema concettuale di basi di dati",
+        "answer_4": "Rappresentano la struttura dello schema logico dei dati",
+        "currect_answer": "answer_2",
+        "module": "modulo 3",
+        "paragraph": "Modello dei dati",
+        "link_pdf": "base_di_dati/dispensa_3"
+    },
+    {
+        "question": "Il dizionario di un DBMS:",
+        "answer_1": "Contiene una descrizione centralizzata dei dati",
+        "answer_2": "Contiene una descrizione distribuita dei dati",
+        "answer_3": "Contiene una descrizione condivisa dei dati",
+        "answer_4": "Contiene una descrizione gerarchica dei dati",
+        "currect_answer": "answer_1",
+        "module": "modulo 3",
+        "paragraph": "Modello dei dati",
+        "link_pdf": "base_di_dati/dispensa_3"
+    },
+    {
+        "question": "I modelli principali di una base di dati sono:",
+        "answer_1": "4",
+        "answer_2": "5",
+        "answer_3": "2",
+        "answer_4": "3",
+        "currect_answer": "answer_3",
+        "module": "modulo 4",
+        "paragraph": "Modelli",
+        "link_pdf": "base_di_dati/dispensa_4"
+    },
+    {
+        "question": "Il modello logico di una base di dati è:",
+        "answer_1": "Indipendente dalla struttura fisica",
+        "answer_2": "Dipendente dalla struttura fisica",
+        "answer_3": "Dipendente dal software di sistema",
+        "answer_4": "Indipendente dalla struttura logica",
+        "currect_answer": "answer_1",
+        "module": "modulo 4",
+        "paragraph": "Modelli",
+        "link_pdf": "base_di_dati/dispensa_4"
+    },
+    {
+        "question": "Il modello concettuale di una base di dati è:",
+        "answer_1": "Utilizzato solo in alcuni casi particolari di difficoltà elevata",
+        "answer_2": "Utilizzato nelle fasi preliminari di progettazione",
+        "answer_3": "Utilizzato alla fine della fase di progettazione",
+        "answer_4": "Utilizzato solo per progettare la struttura fisica del database",
+        "currect_answer": "answer_2",
+        "module": "modulo 4",
+        "paragraph": "Modelli",
+        "link_pdf": "base_di_dati/dispensa_4"
+    },
+    {
+        "question": "Il modello Entity-Relationship di una base di dati è un modello:",
+        "answer_1": "Logico",
+        "answer_2": "Fisico",
+        "answer_3": "Interno",
+        "answer_4": "Concettuale",
+        "currect_answer": "answer_4",
+        "module": "modulo 4",
+        "paragraph": "Modelli",
+        "link_pdf": "base_di_dati/dispensa_4"
+    },
+    {
+        "question": "L'architettura semplificata di un DBMS consiste di:",
+        "answer_1": "Schema logico",
+        "answer_2": "Schema logico e schema interno",
+        "answer_3": "Schema interno",
+        "answer_4": "Schema esterno e schema logico",
+        "currect_answer": "answer_2",
+        "module": "modulo 4",
+        "paragraph": "Architetture",
+        "link_pdf": "base_di_dati/dispensa_4"
+    },
+    {
+        "question": "L'architettura a 3 livelli di un database prevede:",
+        "answer_1": "Schema esterno, schema logico e schema concettuale",
+        "answer_2": "Schema esterno, schema fisico e schema interno",
+        "answer_3": "Schema esterno, schema logico e schema interno",
+        "answer_4": "Schema utente, schema logico e schema interno",
+        "currect_answer": "answer_3",
+        "module": "modulo 4",
+        "paragraph": "Architetture",
+        "link_pdf": "base_di_dati/dispensa_4"
+    },
+    {
+        "question": "L'architettura a 3 livelli di un database è l'architettura:",
+        "answer_1": "ANSI/SPARC",
+        "answer_2": "ANSI",
+        "answer_3": "SPARC",
+        "answer_4": "IEEE/SPARC",
+        "currect_answer": "answer_1",
+        "module": "modulo 4",
+        "paragraph": "Architetture",
+        "link_pdf": "base_di_dati/dispensa_4"
+    },
+    {
+        "question": "L'indipendenza logica di una base di dati prevede che:",
+        "answer_1": "Il livello logico è dipendente da quello fisico",
+        "answer_2": "Il livello esterno è indipendente solo da quello fisico",
+        "answer_3": "Il livello esterno è dipendente da quello logico",
+        "answer_4": "Il livello esterno è indipendente da quello logico",
+        "currect_answer": "answer_4",
+        "module": "modulo 4",
+        "paragraph": "Indipendenza dei dati",
+        "link_pdf": "base_di_dati/dispensa_4"
+    },
+    {
+        "question": "L'indipendenza fisica di una base di dati prevede che:",
+        "answer_1": "La realizzazione fisica può cambiare cambiando il livello logico del DBMS",
+        "answer_2": "La realizzazione fisica può cambiare senza che debbano essere modificati i programmi",
+        "answer_3": "La realizzazione fisica può cambiare modificando i programmi del DBMS",
+        "answer_4": "La realizzazione fisica non può mai cambiare",
+        "currect_answer": "answer_3",
+        "module": "modulo 4",
+        "paragraph": "Indipendenza dei dati",
+        "link_pdf": "base_di_dati/dispensa_4"
+    },
+    {
+        "question": "L'indipendenza dati è conseguenza:",
+        "answer_1": "Della articolazione a 4 livelli",
+        "answer_2": "Della articolazione a 3 livelli",
+        "answer_3": "Della articolazione a livelli",
+        "answer_4": "Della articolazione a 2 livelli",
+        "currect_answer": "answer_3",
+        "module": "modulo 4",
+        "paragraph": "Indipendenza dei dati",
+        "link_pdf": "base_di_dati/dispensa_4"
+    },
+    {
+        "question": "Il linguaggio SQL",
+        "answer_1": "E' un linguaggio di programmazione",
+        "answer_2": "E' un linguaggio grafico",
+        "answer_3": "E' un linguaggio testuale interattivo",
+        "answer_4": "E' un linguaggio utilizzato solo con mainframe",
+        "currect_answer": "answer_3",
+        "module": "modulo 5",
+        "paragraph": "Il linguaggio SQL",
+        "link_pdf": "base_di_dati/dispensa_5"
+    },
+    {
+        "question": "SQL sta per:",
+        "answer_1": "System Query Language",
+        "answer_2": "Structured Query Language",
+        "answer_3": "Software Query Language",
+        "answer_4": "Semantic Query Language",
+        "currect_answer": "answer_2",
+        "module": "modulo 5",
+        "paragraph": "Il linguaggio SQL",
+        "link_pdf": "base_di_dati/dispensa_5"
+    },
+    {
+        "question": "DDL sta per:",
+        "answer_1": "Data Definition Language",
+        "answer_2": "Data to Data Language",
+        "answer_3": "Data Domain Language",
+        "answer_4": "Domain Definition Language",
+        "currect_answer": "answer_1",
+        "module": "modulo 5",
+        "paragraph": "DML e DDL",
+        "link_pdf": "base_di_dati/dispensa_5"
+    },
+    {
+        "question": "DML sta per:",
+        "answer_1": "Data Multi Language",
+        "answer_2": "Data Main Language",
+        "answer_3": "Definition and Manipulation Language",
+        "answer_4": "Data Manipulation Language",
+        "currect_answer": "answer_4",
+        "module": "modulo 5",
+        "paragraph": "DML e DDL",
+        "link_pdf": "base_di_dati/dispensa_5"
+    },
+    {
+        "question": "DBA sta per:",
+        "answer_1": "Data Base Appliance",
+        "answer_2": "Data Base Administration",
+        "answer_3": "Data Base Administrator",
+        "answer_4": "Definition Base Appliance",
+        "currect_answer": "answer_3",
+        "module": "modulo 5",
+        "paragraph": "Personaggi e Interpreti",
+        "link_pdf": "base_di_dati/dispensa_5"
+    },
+    {
+        "question": "La riduzione delle ridondanze e incosistenze è:",
+        "answer_1": "Uno dei vantaggi di un DBMS",
+        "answer_2": "Uno degli svantaggi di un DBMS",
+        "answer_3": "Un vincolo di programmazione di un DBMS",
+        "answer_4": "Un vantaggio dovuto alle architetture hardware sulle quali è implemenmtato il database",
+        "currect_answer": "answer_1",
+        "module": "modulo 5",
+        "paragraph": "Vantaggi e Svantaggi di un DBMS",
+        "link_pdf": "base_di_dati/dispensa_5"
+    },
+    {
+        "question": "Uno degli svantaggi di un DBMS è:",
+        "answer_1": "La complessità del sistema",
+        "answer_2": "Il costo dei prodotti e la transizione verso di essi",
+        "answer_3": "La difficoltà di utilizzo",
+        "answer_4": "La difficoltà di progettazione",
+        "currect_answer": "answer_2",
+        "module": "modulo 5",
+        "paragraph": "Vantaggi e Svantaggi di un DBMS",
+        "link_pdf": "base_di_dati/dispensa_5"
+    },
+    {
+        "question": "Per il sistema, una transazione è:",
+        "answer_1": "Un programma di interrogazione dati",
+        "answer_2": "Un gruppo di operazioni",
+        "answer_3": "Una sequenza scomponibile di operazioni",
+        "answer_4": "Una sequenza indivisibile di operazioni",
+        "currect_answer": "answer_4",
+        "module": "modulo 5",
+        "paragraph": "Personaggi e Interpreti",
+        "link_pdf": "base_di_dati/dispensa_5"
+    },
+    {
+        "question": "'SELECT Corso, Aula, Piano FROM Aule, Corsi' è:",
+        "answer_1": "Una operazione DML",
+        "answer_2": "Una operazione di creazione di una tabella",
+        "answer_3": "Una operazione di costruzione di un database",
+        "answer_4": "Una operazione di creazione di un database",
+        "currect_answer": "answer_1",
+        "module": "modulo 5",
+        "paragraph": "Il linguaggio SQL",
+        "link_pdf": "base_di_dati/dispensa_5"
+    },
+    {
+        "question": "Un utente finale di un DBMS:",
+        "answer_1": "Esegue programmi",
+        "answer_2": "Esegue dati",
+        "answer_3": "Esegue transazioni",
+        "answer_4": "Esegue solo query",
+        "currect_answer": "answer_3",
+        "module": "modulo 5",
+        "paragraph": "Personaggi e Interpreti",
+        "link_pdf": "base_di_dati/dispensa_5"
+    },
+    {
+        "question": "Il modello Reticolare dei dati è:",
+        "answer_1": "Un modello logico dei dati",
+        "answer_2": "Un modello fisico dei dati",
+        "answer_3": "Un modello software dei dati",
+        "answer_4": "Un modello algebrico dei dati",
+        "currect_answer": "answer_1",
+        "module": "modulo 6",
+        "paragraph": "I modelli logici dei dati",
+        "link_pdf": "base_di_dati/dispensa_6"
+    },
+    {
+        "question": "Il modello Relazionale dei dati è:",
+        "answer_1": "Basato sugli indirizzi",
+        "answer_2": "Basato sui puntatori",
+        "answer_3": "Basato su valori",
+        "answer_4": "Basato sulle liste",
+        "currect_answer": "answer_3",
+        "module": "modulo 6",
+        "paragraph": "I modelli logici dei dati",
+        "link_pdf": "base_di_dati/dispensa_6"
+    },
+    {
+        "question": "Il modello Relazionale dei dati è del:",
+        "answer_1": "1970",
+        "answer_2": "1969",
+        "answer_3": "1972",
+        "answer_4": "1971",
+        "currect_answer": "answer_1",
+        "module": "modulo 6",
+        "paragraph": "I modelli logici dei dati",
+        "link_pdf": "base_di_dati/dispensa_6"
+    },
+    {
+        "question": "Il modello Relazionale si basa sul concetto matematico di:",
+        "answer_1": "Indirizzo",
+        "answer_2": "Relazione",
+        "answer_3": "Record",
+        "answer_4": "Attributo",
+        "currect_answer": "answer_2",
+        "module": "modulo 6",
+        "paragraph": " I modelli logici dei dati",
+        "link_pdf": "base_di_dati/dispensa_6"
+    },
+    {
+        "question": "Nel modello Relazionale, una tabella è:",
+        "answer_1": "La rappresentazione di un attributo",
+        "answer_2": "La rappresentazione di un dominio",
+        "answer_3": "La rappresentazione di una relazione",
+        "answer_4": "La rappresentazione di una lista",
+        "currect_answer": "answer_3",
+        "module": "modulo 6",
+        "paragraph": "La relazione",
+        "link_pdf": "base_di_dati/dispensa_6"
+    },
+    {
+        "question": "La Relazione matematica è:",
+        "answer_1": "Un sottoinsieme di un prodotto cartesiano",
+        "answer_2": "Il prodotto cartesiano tra due insiemi",
+        "answer_3": "Una funzione a valori interi",
+        "answer_4": "Un insieme di attributi",
+        "currect_answer": "answer_1",
+        "module": "modulo 6",
+        "paragraph": "La relazione",
+        "link_pdf": "base_di_dati/dispensa_6"
+    },
+    {
+        "question": "La struttura di una relazione matematica è:",
+        "answer_1": "Non posizionale",
+        "answer_2": "Posizionale",
+        "answer_3": "Dinamica",
+        "answer_4": "Statica",
+        "currect_answer": "answer_2",
+        "module": "modulo 6",
+        "paragraph": "La relazione",
+        "link_pdf": "base_di_dati/dispensa_6"
+    },
+    {
+        "question": "In una tabella che rappresenta una relazione,l'ordinamento tra le righe è:",
+        "answer_1": "Rilevante",
+        "answer_2": "Obbligatorio",
+        "answer_3": "Opzionale",
+        "answer_4": "Irrilevante",
+        "currect_answer": "answer_4",
+        "module": "modulo 6",
+        "paragraph": "La tabella",
+        "link_pdf": "base_di_dati/dispensa_6"
+    },
+    {
+        "question": "In una tabella che rappresenta una relazione:",
+        "answer_1": "Le righe sono tutte uguali tra loro",
+        "answer_2": "Solo alcune delle righe possono essere uguali tra loro",
+        "answer_3": "Il numero di righe dipende dal numero di attributi",
+        "answer_4": "Le righe sono tutte diverse tra loro",
+        "currect_answer": "answer_4",
+        "module": "modulo 6",
+        "paragraph": "La tabella",
+        "link_pdf": "base_di_dati/dispensa_6"
+    },
+    {
+        "question": "Il nome unico che si associa a ciascun dominio di una tabella, prende il nome di:",
+        "answer_1": "Attributo",
+        "answer_2": "Record",
+        "answer_3": "Campo",
+        "answer_4": "Lista",
+        "currect_answer": "answer_1",
+        "module": "modulo 6",
+        "paragraph": "La tabella",
+        "link_pdf": "base_di_dati/dispensa_6"
+    },
+    {
+        "question": "Uno Schema di Relazione R è:",
+        "answer_1": "Un insieme di attributi",
+        "answer_2": "Un nome R con un insieme di attributi A1…An",
+        "answer_3": "Un insieme di campi",
+        "answer_4": "Un insieme di schemi",
+        "currect_answer": "answer_2",
+        "module": "modulo 7",
+        "paragraph": "Definizioni",
+        "link_pdf": "base_di_dati/dispensa_7"
+    },
+    {
+        "question": "Uno Schema di base di dati è:",
+        "answer_1": "Un insieme di particolari attributi",
+        "answer_2": "Un insieme di record e puntatori",
+        "answer_3": "Un insieme di schemi di relazioni",
+        "answer_4": "Un insieme di tuple",
+        "currect_answer": "answer_3",
+        "module": "modulo 7",
+        "paragraph": "Definizioni",
+        "link_pdf": "base_di_dati/dispensa_7"
+    },
+    {
+        "question": "t[A] denota:",
+        "answer_1": "Il valore della tupla t sul dominio A",
+        "answer_2": "Il valore della tupla t sulla relazione A",
+        "answer_3": "Il valore della tupla t sullo schema di relazione A",
+        "answer_4": "Il valore della tupla t sull'attributo A",
+        "currect_answer": "answer_4",
+        "module": "modulo 7",
+        "paragraph": "Definizioni",
+        "link_pdf": "base_di_dati/dispensa_7"
+    },
+    {
+        "question": "Una istanza di relazione (matematica) su uno schema R(x) è:",
+        "answer_1": "Un insieme R di ennuple su X",
+        "answer_2": "Un insieme R di attributi su X",
+        "answer_3": "Un insieme R di campi su X",
+        "answer_4": "Un insieme R di tuple su X",
+        "currect_answer": "answer_1",
+        "module": "modulo 7",
+        "paragraph": "Definizioni",
+        "link_pdf": "base_di_dati/dispensa_7"
+    },
+    {
+        "question": "Una relazione è:",
+        "answer_1": "Un insieme di campi omogenei",
+        "answer_2": "Un insieme di record omogenei",
+        "answer_3": "Un insieme di tabelle omogenee",
+        "answer_4": "Un insieme di schemi di relazioni omogenei",
+        "currect_answer": "answer_2",
+        "module": "modulo 7",
+        "paragraph": "Definizioni",
+        "link_pdf": "base_di_dati/dispensa_7"
+    },
+    {
+        "question": "In una struttura di relazione nidificata:",
+        "answer_1": "Si possono sempre rappresentare le informazioni con una relazione",
+        "answer_2": "I campi sono sempre duplicati",
+        "answer_3": "Non è possibile rappresentare le informazioni con un'unica relazione",
+        "answer_4": "Gli attributi sono ridondanti",
+        "currect_answer": "answer_3",
+        "module": "modulo 7",
+        "paragraph": "Strutture nidificate",
+        "link_pdf": "base_di_dati/dispensa_7"
+    },
+    {
+        "question": "Il modello relazionale impone ai dati una struttura:",
+        "answer_1": "Rigida",
+        "answer_2": "Flessibile",
+        "answer_3": "Che dipende dai vincoli tra te tuple",
+        "answer_4": "Dipendente dal numero di attributi",
+        "currect_answer": "answer_1",
+        "module": "modulo 7",
+        "paragraph": "Informazione incompleta",
+        "link_pdf": "base_di_dati/dispensa_7"
+    },
+    {
+        "question": "Nel modello relazionale le informazioni sono rappresentate tramite:",
+        "answer_1": "Schemi",
+        "answer_2": "Attributi",
+        "answer_3": "Campi",
+        "answer_4": "Tuple",
+        "currect_answer": "answer_4",
+        "module": "modulo 7",
+        "paragraph": "Informazione incompleta",
+        "link_pdf": "base_di_dati/dispensa_7"
+    },
+    {
+        "question": "Il valore NULL:",
+        "answer_1": "Denota l'assenza di un valore di dominio",
+        "answer_2": "Denota la presenza di tutti i valori di dominio",
+        "answer_3": "Rappresenta il valore zero",
+        "answer_4": "Rappresenta il limite massimo per un dominio",
+        "currect_answer": "answer_1",
+        "module": "modulo 7",
+        "paragraph": "Informazione incompleta",
+        "link_pdf": "base_di_dati/dispensa_7"
+    },
+    {
+        "question": "In un database relazionale per il valore nullo ci si trova nel caso di:",
+        "answer_1": "Valore sconosciuto",
+        "answer_2": "Valore inesistente",
+        "answer_3": "Senza informazione",
+        "answer_4": "Valore mancante",
+        "currect_answer": "answer_3",
+        "module": "modulo 7",
+        "paragraph": "Informazione incompleta",
+        "link_pdf": "base_di_dati/dispensa_7"
+    },
+    {
+        "question": "I vincoli di dominio:",
+        "answer_1": "Coinvolgono un solo attributo di una relazione",
+        "answer_2": "Coinvolgono tutti gli attributi di una relazione",
+        "answer_3": "Non coinvolgono attributi di relazioni",
+        "answer_4": "Coinvolgono solo le chiavi minimali di una relazione",
+        "currect_answer": "answer_1",
+        "module": "modulo 8",
+        "paragraph": "Vincoli di ennupla",
+        "link_pdf": "base_di_dati/dispensa_8"
+    },
+    {
+        "question": "I vincoli di ennupla:",
+        "answer_1": "Esprimono condizioni sui valori di una sola ennupla particolare",
+        "answer_2": "Esprimono condizioni sugli attributi di una ennupla",
+        "answer_3": "Esprimono condizioni sui valori di un solo attributo principale",
+        "answer_4": "Esprimono condizioni sui valori di ciascuna ennupla, indipendentemente dalle altre ennuple",
+        "currect_answer": "answer_4",
+        "module": "modulo 8",
+        "paragraph": "Vincoli di ennupla",
+        "link_pdf": "base_di_dati/dispensa_8"
+    },
+    {
+        "question": "Una chiave è:",
+        "answer_1": "Un insieme di attributi che identificano più ennuple in una relazione",
+        "answer_2": "Un insieme di attributi che identificano univocamente una ennupla in una relazione",
+        "answer_3": "Un insieme di attributi che identificano n attributi in una relazione",
+        "answer_4": "Un solo attributo di una ennupla che identifica la relazione",
+        "currect_answer": "answer_2",
+        "module": "modulo 8",
+        "paragraph": "Chiavi",
+        "link_pdf": "base_di_dati/dispensa_8"
+    },
+    {
+        "question": "Un vincolo di integrità può essere:",
+        "answer_1": "Solo Interrazionale",
+        "answer_2": "Minimale e maximale",
+        "answer_3": "Interrelazionale e Intrarelazionale",
+        "answer_4": "Solo Intrarelazionale",
+        "currect_answer": "answer_3",
+        "module": "modulo 8",
+        "paragraph": "Vincoli di integrità",
+        "link_pdf": "base_di_dati/dispensa_8"
+    },
+    {
+        "question": "Una superchiave è minimale se:",
+        "answer_1": "Contiene altre superchiavi",
+        "answer_2": "Contiene almeno due attributi",
+        "answer_3": "Non contiene altre superchiavi",
+        "answer_4": "Non contiene attributi",
+        "currect_answer": "answer_3",
+        "module": "modulo 8",
+        "paragraph": "Chiavi",
+        "link_pdf": "base_di_dati/dispensa_8"
+    },
+    {
+        "question": "Un insieme K di attributi è sempre superchiave",
+        "answer_1": "Si",
+        "answer_2": "No",
+        "answer_3": "Solo se la cardinalità è di K=2",
+        "answer_4": "Solo se K >3",
+        "currect_answer": "answer_2",
+        "module": "modulo 8",
+        "paragraph": "Chiavi",
+        "link_pdf": "base_di_dati/dispensa_8"
+    },
+    {
+        "question": "Un vincolo di integrità è:",
+        "answer_1": "Una funzione continua a valori reali",
+        "answer_2": "Una funzione reale di variabile reale",
+        "answer_3": "Una funzione reale a valori booleani",
+        "answer_4": "Una funzione booleana",
+        "currect_answer": "answer_4",
+        "module": "modulo 8",
+        "paragraph": "Vincoli di integrità",
+        "link_pdf": "base_di_dati/dispensa_8"
+    },
+    {
+        "question": "Un vincolo di integrità fornisce:",
+        "answer_1": "Solo una descrizione della superchiave",
+        "answer_2": "Solo una descrizione della chiave minimale",
+        "answer_3": "Una descrizione più accurata della realtà di interesse",
+        "answer_4": "Una descrizione più approssimativa della realtà di interesse",
+        "currect_answer": "answer_3",
+        "module": "modulo 8",
+        "paragraph": "Vincoli di integrità",
+        "link_pdf": "base_di_dati/dispensa_8"
+    },
+    {
+        "question": "Una base di dati è 'scorretta' quando:",
+        "answer_1": "Viola almeno due vincoli di integrità",
+        "answer_2": "Viola almeno un vincolo di integrità",
+        "answer_3": "Viola la lunghezza standard delle superchiavi",
+        "answer_4": "Viola la relazione intrarelazionale tra due tabelle",
+        "currect_answer": "answer_2",
+        "module": "modulo 8",
+        "paragraph": "Vincoli di integrità",
+        "link_pdf": "base_di_dati/dispensa_8"
+    },
+    {
+        "question": "Una possibile sintassi di un vincolo di ennupla è:",
+        "answer_1": "Espressione booleana tra tuple",
+        "answer_2": "Espressione booleana di attributi e relazioni",
+        "answer_3": "Espressione booleana di atomi che confrontano valori di attributo o espressioni aritmetiche su di essi",
+        "answer_4": "Espressione booleana tra chiavi",
+        "currect_answer": "answer_3",
+        "module": "modulo 8",
+        "paragraph": "Vincoli di ennupla",
+        "link_pdf": "base_di_dati/dispensa_8"
+    },
+    {
+        "question": "In presenza di valori nulli, i valori della chiave non permettono:",
+        "answer_1": "Di realizzare facilmente i riferimenti con altre relazioni",
+        "answer_2": "Di costruire la base di dati",
+        "answer_3": "Di costruire relazioni",
+        "answer_4": "Di costruire vincoli tra relazioni",
+        "currect_answer": "answer_1",
+        "module": "modulo 9",
+        "paragraph": "Chiavi e valori nulli",
+        "link_pdf": "base_di_dati/dispensa_9"
+    },
+    {
+        "question": "In una relazione, la presenza di valori NULL deve essere:",
+        "answer_1": "Unica",
+        "answer_2": "Limitata",
+        "answer_3": "Non è ammessa presenza di valori NULL",
+        "answer_4": "Infinita",
+        "currect_answer": "answer_2",
+        "module": "modulo 9",
+        "paragraph": "Chiavi e valori nulli",
+        "link_pdf": "base_di_dati/dispensa_9"
+    },
+    {
+        "question": "Una chiave primaria è una chiave:",
+        "answer_1": "Su cui sono ammessi valori nulli",
+        "answer_2": "Composta da almeno due attributi non nulli",
+        "answer_3": "Su cui non sono ammessi valori nulli",
+        "answer_4": "Con almeno un valore nullo",
+        "currect_answer": "answer_3",
+        "module": "modulo 9",
+        "paragraph": "Chiavi e valori nulli",
+        "link_pdf": "base_di_dati/dispensa_9"
+    },
+    {
+        "question": "La notazione per una chiave primaria è:",
+        "answer_1": "Il grassetto",
+        "answer_2": "Il corsivo",
+        "answer_3": "Lettere maiuscole",
+        "answer_4": "La sottolineatura",
+        "currect_answer": "answer_4",
+        "module": "modulo 9",
+        "paragraph": "Chiavi e valori nulli",
+        "link_pdf": "base_di_dati/dispensa_9"
+    },
+    {
+        "question": "In una relazione, se la chiave primaria non esiste:",
+        "answer_1": "Si introduce un vincolo aggiuntivo",
+        "answer_2": "Si introduce una nuova relazione",
+        "answer_3": "Si introduce un codice aggiuntivo",
+        "answer_4": "Si introduce una chiave minimale formata sempre da due attributi",
+        "currect_answer": "answer_3",
+        "module": "modulo 9",
+        "paragraph": "",
+        "link_pdf": "base_di_dati/dispensa_9"
+    },
+    {
+        "question": "I vincoli di integrità referenziale sono vincoli:",
+        "answer_1": "Interrelazionali",
+        "answer_2": "Intrarelazionali",
+        "answer_3": "Relazionali",
+        "answer_4": "Primari",
+        "currect_answer": "answer_1",
+        "module": "modulo 9",
+        "paragraph": "Vincoli di integrità referenziale",
+        "link_pdf": "base_di_dati/dispensa_9"
+    },
+    {
+        "question": "I vincoli di integrità referenziale prevedono che:",
+        "answer_1": "Informazioni in relazioni diverse sono correlate attraverso valori nulli",
+        "answer_2": "Informazioni in relazioni diverse sono correlate attraverso valori comuni",
+        "answer_3": "Informazioni in relazioni diverse sono correlate attraverso chiavi comuni",
+        "answer_4": "Informazioni in relazioni diverse sono correlate attraverso attributi interi",
+        "currect_answer": "answer_2",
+        "module": "modulo 9",
+        "paragraph": "Vincoli di integrità referenziale",
+        "link_pdf": "base_di_dati/dispensa_9"
+    },
+    {
+        "question": "Un vincolo di integrità referenziale prende il nome di:",
+        "answer_1": "External key",
+        "answer_2": "Internal key",
+        "answer_3": "Numeric Key",
+        "answer_4": "Foreign Key",
+        "currect_answer": "answer_4",
+        "module": "modulo 9",
+        "paragraph": "Vincoli di integrità referenziale",
+        "link_pdf": "base_di_dati/dispensa_9"
+    },
+    {
+        "question": "L'eliminazione in cascata è:",
+        "answer_1": "Un'azione compensativa per valori nulli",
+        "answer_2": "Un'azione compensativa per valori interi",
+        "answer_3": "Un'azione compensativa per valori alfanumerici",
+        "answer_4": "Un'azione compensativa per valori di chiavi primarie",
+        "currect_answer": "answer_1",
+        "module": "modulo 9",
+        "paragraph": "Integrità referenziale e valori nulli",
+        "link_pdf": "base_di_dati/dispensa_9"
+    },
+    {
+        "question": "Nei vincoli multipli su più attributi:",
+        "answer_1": "L'ordine degli attributi dipende dalle chiavi minimali",
+        "answer_2": "L'ordine degli attributi dipende dalla tipologia di attributo",
+        "answer_3": "L'ordine degli attributi è significativo",
+        "answer_4": "L'ordine degli attributi non è significativo",
+        "currect_answer": "answer_3",
+        "module": "modulo 9",
+        "paragraph": "Integrità referenziale e valori nulli",
+        "link_pdf": "base_di_dati/dispensa_9"
+    },
+    {
+        "question": "La seguente relazione: PRESTITO (Titolo, Nome, DataRestituzione) ha l'attributo Titolo come:",
+        "answer_1": "Chiave secondaria",
+        "answer_2": "Chiave primaria",
+        "answer_3": "Chiave minimale",
+        "answer_4": "Chiave",
+        "currect_answer": "answer_2",
+        "module": "modulo 10",
+        "paragraph": "Esercizio 2.1",
+        "link_pdf": "base_di_dati/dispensa_10"
+    },
+    {
+        "question": "Nella relazione PRESTITO (Titolo, Nome, DataRestituzione), ogni libro in prestito è:",
+        "answer_1": "Nullo",
+        "answer_2": "Doppio",
+        "answer_3": "Unico",
+        "answer_4": "Chiave primaria",
+        "currect_answer": "answer_3",
+        "module": "modulo 10",
+        "paragraph": "Esercizio 2.1",
+        "link_pdf": "base_di_dati/dispensa_10"
+    },
+    {
+        "question": "Nelle relazioni PARTENZE e FERMATE dell'esercizio relativo agli orari dei treni, deve esistere un vincolo di integrità referenziale tra i due attributi:",
+        "answer_1": "Destinazione e Categoria",
+        "answer_2": "Orario e Destinazione",
+        "answer_3": "Numero e Categoria",
+        "answer_4": "ID_Treno in FERMATE e Numero in PARTENZE",
+        "currect_answer": "answer_4",
+        "module": "modulo 10",
+        "paragraph": "Esercizio 2.2",
+        "link_pdf": "base_di_dati/dispensa_10"
+    },
+    {
+        "question": "La rappresentazione delle fermate nella relazione PARTENZE non risulta possibile perché:",
+        "answer_1": "Deve avere un numero fisso di attributi",
+        "answer_2": "Deve avere un numero variabile di attributi",
+        "answer_3": "Deve avere un solo attributo",
+        "answer_4": "Deve avere almeno tre attributi",
+        "currect_answer": "answer_1",
+        "module": "modulo 10",
+        "paragraph": "Esercizio 2.2",
+        "link_pdf": "base_di_dati/dispensa_10"
+    },
+    {
+        "question": "Nelle due relazioni dell'esercizio relativo agli im piegati di un'azienda ovvero Impiegati e Filiali, le chiavi primarie sono:",
+        "answer_1": "Cognome e nome",
+        "answer_2": "Codice fiscale e codice filiale",
+        "answer_3": "Codice e Nome",
+        "answer_4": "Codice fiscale e direttore",
+        "currect_answer": "answer_2",
+        "module": "modulo 10",
+        "paragraph": "Esercizio 2.3",
+        "link_pdf": "base_di_dati/dispensa_10"
+    },
+    {
+        "question": "L'attributo filiale della relazione Impiegati è:",
+        "answer_1": "Chiave primaria",
+        "answer_2": "Chiave secondaria",
+        "answer_3": "Foreign key",
+        "answer_4": "Multi-chiave",
+        "currect_answer": "answer_3",
+        "module": "modulo 10",
+        "paragraph": "Esercizio 2.3",
+        "link_pdf": "base_di_dati/dispensa_10"
+    },
+    {
+        "question": "Nella relazione PROGRAMMA dell'esercizio relativo ai programmi di una radio, la chiave primaria è l'attributo:",
+        "answer_1": "Stazione",
+        "answer_2": "Orario",
+        "answer_3": "Titolo e orario",
+        "answer_4": "Titolo",
+        "currect_answer": "answer_4",
+        "module": "modulo 10",
+        "paragraph": "Esercizio 2.8",
+        "link_pdf": "base_di_dati/dispensa_10"
+    },
+    {
+        "question": "Nella relazione STAZIONE dell'esercizio elativo ai programmi di una radio, la chiave primaria è l'attributo:",
+        "answer_1": "Frequenza",
+        "answer_2": "Nome",
+        "answer_3": "Sede",
+        "answer_4": "Frequenza più sede",
+        "currect_answer": "answer_2",
+        "module": "modulo 10",
+        "paragraph": "",
+        "link_pdf": "base_di_dati/dispensa_10"
+    },
+    {
+        "question": "L'attributo stazione della relazione PROGRAMMA è:",
+        "answer_1": "Primary key",
+        "answer_2": "Secondary Key",
+        "answer_3": "Chiave composta",
+        "answer_4": "Foreign key",
+        "currect_answer": "answer_4",
+        "module": "modulo 10",
+        "paragraph": "Esercizio 2.8",
+        "link_pdf": "base_di_dati/dispensa_10"
+    },
+    {
+        "question": "Lo schema proposto nelle due relazioni STAZIONE e PROGRAMMA presuppone che:",
+        "answer_1": "Lo stesso titolo di un programma debba essere utilizzato almeno da due stazioni differenti",
+        "answer_2": "Lo stesso titolo di un programma debba essere utilizzato da due stazioni differenti",
+        "answer_3": "Lo stesso titolo di un programma non possa essere utilizzato dalle stesse stazioni",
+        "answer_4": "Lo stesso titolo di un programma non possa essere utilizzato da due stazioni differenti",
+        "currect_answer": "answer_4",
+        "module": "modulo 10",
+        "paragraph": "Esercizio 2.8",
+        "link_pdf": "base_di_dati/dispensa_10"
+    },
+    {
         "question": "le funzioni scalari sono suddivise in:",
         "answer_1": "Famiglie",
         "answer_2": "Attributi",
@@ -117,7 +1107,7 @@
         "answer_4": "Relazioni",
         "currect_answer": "answer_1",
         "module": "modulo 26",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_26"
     },
     {
         "question": "Le funzioni scalari possono essere utilizzate:",
@@ -127,7 +1117,7 @@
         "answer_4": "All'interno della clausola JOIN",
         "currect_answer": "answer_2",
         "module": "modulo 26",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_26"
     },
     {
         "question": "La funzione char_lenght() restituisce:",
@@ -137,7 +1127,7 @@
         "answer_4": "Il numero di caratteri letterali di una stringa",
         "currect_answer": "answer_3",
         "module": "modulo 26",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_26"
     },
     {
         "question": "La funzione cast() consente di:",
@@ -147,7 +1137,7 @@
         "answer_4": "Convertire valori da un dominio ad un altro",
         "currect_answer": "answer_4",
         "module": "modulo 26",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_26"
     },
     {
         "question": "Le famiglie di funzioni condizionali sono:",
@@ -157,7 +1147,7 @@
         "answer_4": 2,
         "currect_answer": "answer_1",
         "module": "modulo 26",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_26"
     },
     {
         "question": "La funzione coalescence():",
@@ -167,7 +1157,7 @@
         "answer_4": "Restituisce una tabella",
         "currect_answer": "answer_2",
         "module": "modulo 26",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_26"
     },
     {
         "question": "Un trigger è:",
@@ -177,7 +1167,7 @@
         "answer_4": "Un particolare schema di basi di dati",
         "currect_answer": "answer_2",
         "module": "modulo 26",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_26"
     },
     {
         "question": "Il paradigma di comportamento di un trigger è:",
@@ -187,7 +1177,7 @@
         "answer_4": "Evento-Condizione-Azione",
         "currect_answer": "answer_4",
         "module": "modulo 26",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_26"
     },
     {
         "question": "Quando accade un evento il trigger è:",
@@ -197,7 +1187,7 @@
         "answer_4": "Parametrizzato",
         "currect_answer": "answer_3",
         "module": "modulo 26",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_26"
     },
     {
         "question": "I livelli di granularità di un TRIGGER sono:",
@@ -207,7 +1197,7 @@
         "answer_4": 2,
         "currect_answer": "answer_4",
         "module": "modulo 26",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_26"
     },
     {
         "question": "Il comando GRANT OPTION specifica:",
@@ -217,7 +1207,7 @@
         "answer_4": "Se l'utente non deve avere privilegi",
         "currect_answer": "answer_1",
         "module": "modulo 27",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_27"
     },
     {
         "question": "Un utente si può autorizzare a vedere solo alcune ennuple di una relazione:",
@@ -227,7 +1217,7 @@
         "answer_4": "Attraverso un operatore relazionale",
         "currect_answer": "answer_1",
         "module": "modulo 27",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_27"
     },
     {
         "question": "Le clausole RESTRICT e CASCADE del comando REVOKE servono per:",
@@ -237,7 +1227,7 @@
         "answer_4": "La propagazione delle SELECT",
         "currect_answer": "answer_1",
         "module": "modulo 27",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_27"
     },
     {
         "question": "Una transazione inizia:",
@@ -247,7 +1237,7 @@
         "answer_4": "Al secondo comando SQL",
         "currect_answer": "answer_3",
         "module": "modulo 27",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_27"
     },
     {
         "question": "Con il comando ROLLBACK:",
@@ -257,7 +1247,7 @@
         "answer_4": "Si avviano le operazioni specificate dalla transazione",
         "currect_answer": "answer_3",
         "module": "modulo 27",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_27"
     },
     {
         "question": "Le proprietà acide di una transazione sono:",
@@ -267,7 +1257,7 @@
         "answer_4": 2,
         "currect_answer": "answer_2",
         "module": "modulo 27",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_27"
     },
     {
         "question": "Una transazione è 'Consistente' quando:",
@@ -277,7 +1267,7 @@
         "answer_4": "La sequenza di operazioni sulla base di dati viene eseguita per intero",
         "currect_answer": "answer_3",
         "module": "modulo 27",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_27"
     },
     {
         "question": "Una transazione è 'Coerente' quando:",
@@ -287,7 +1277,7 @@
         "answer_4": "Il suo effetto è coerente",
         "currect_answer": "answer_4",
         "module": "modulo 27",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_27"
     },
     {
         "question": "Il comando COMMIT WORK:",
@@ -297,7 +1287,7 @@
         "answer_4": "Avvia un trigger",
         "currect_answer": "answer_1",
         "module": "modulo 27",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_27"
     },
     {
         "question": "Un sistema 'Transazionale' è un sistema dove:",
@@ -307,7 +1297,7 @@
         "answer_4": "Valgono i trigger",
         "currect_answer": "answer_3",
         "module": "modulo 27",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_27"
     },
     {
         "question": "La progettazione di una base di dati:",
@@ -317,7 +1307,7 @@
         "answer_4": "e' una delle attività di sviluppo di un programma software",
         "currect_answer": "answer_2",
         "module": "modulo 28",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_28"
     },
     {
         "question": "Il ciclo di vita di un sistema informativo è:",
@@ -327,7 +1317,7 @@
         "answer_4": "l'insieme delle attività svolte da analisti, progettisti, utenti",
         "currect_answer": "answer_3",
         "module": "modulo 28",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_28"
     },
     {
         "question": "Il ciclo di vita di un sistema informatovo si compone di:",
@@ -337,7 +1327,7 @@
         "answer_4": "4 fasi",
         "currect_answer": "answer_1",
         "module": "modulo 28",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_28"
     },
     {
         "question": "Lo studio di fattibilità di un sistema informativo:",
@@ -347,7 +1337,7 @@
         "answer_4": "serve a definire gli attori di processo",
         "currect_answer": "answer_1",
         "module": "modulo 28",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_28"
     },
     {
         "question": "Nella fasi di implementazione di un sistema informativo:",
@@ -357,7 +1347,7 @@
         "answer_4": "viene costruita e popolata la base di dati e viene prodotto il codice dei programmi",
         "currect_answer": "answer_4",
         "module": "modulo 28",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_28"
     },
     {
         "question": "La fase di validazione e collaudo di un sistema informativo:",
@@ -367,7 +1357,7 @@
         "answer_4": "serve a verificare solo il corretto funzionamento del sistema informativo",
         "currect_answer": "answer_2",
         "module": "modulo 28",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_28"
     },
     {
         "question": "La progettazione di un sistema informativo si basa:",
@@ -377,7 +1367,7 @@
         "answer_4": "solo sulla progettazione dei dati",
         "currect_answer": "answer_3",
         "module": "modulo 28",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_28"
     },
     {
         "question": "Il processo sul quale si basa il ciclo di vita di un sistema informativo:",
@@ -387,7 +1377,7 @@
         "answer_4": "e' solo a cascata",
         "currect_answer": "answer_3",
         "module": "modulo 28",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_28"
     },
     {
         "question": "Le basi di dati costituiscono:",
@@ -397,7 +1387,7 @@
         "answer_4": "solo una parte di un sistema informativo",
         "currect_answer": "answer_4",
         "module": "modulo 28",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_28"
     },
     {
         "question": "La prototipizzazione",
@@ -407,7 +1397,7 @@
         "answer_4": "e' la fase di consegna all'utente finale di un sistema informativo",
         "currect_answer": "answer_1",
         "module": "modulo 28",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_28"
     },
     {
         "question": "La progettazione concettuale, tra le tante attività prevede:",
@@ -417,7 +1407,7 @@
         "answer_4": "L'analisi del numero di macchine collegate",
         "currect_answer": "answer_2",
         "module": "modulo 37",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_37"
     },
     {
         "question": "Una delle possibili fonti dei requisiti è:",
@@ -427,7 +1417,7 @@
         "answer_4": "Il diagramma fisico",
         "currect_answer": "answer_1",
         "module": "modulo 37",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_37"
     },
     {
         "question": "Una delle attività di analisi dei requisiti è l'interazione con l'utente la quale richede anche:",
@@ -437,7 +1427,7 @@
         "answer_4": "La richiesta dello schema logico",
         "currect_answer": "answer_3",
         "module": "modulo 37",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_37"
     },
     {
         "question": "Nella documentazione descrittiva di una realtà di interesse è necessario:",
@@ -447,7 +1437,7 @@
         "answer_4": "Separare le frasi sui dati da quelle sulle funzioni",
         "currect_answer": "answer_4",
         "module": "modulo 37",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_37"
     },
     {
         "question": "Il Glossario dei termini, per ogni termine deve contenere:",
@@ -457,7 +1447,7 @@
         "answer_4": "Una descrizione dei termini e delle relazioni",
         "currect_answer": "answer_1",
         "module": "modulo 37",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_37"
     },
     {
         "question": "L'analisi dei requisiti consiste nel:",
@@ -467,7 +1457,7 @@
         "answer_4": "Chiarimento e nell'organizzazione delle specifiche di progettazione",
         "currect_answer": "answer_2",
         "module": "modulo 37",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_37"
     },
     {
         "question": "I requisiti di un'applicazioneprovengono:",
@@ -477,7 +1467,7 @@
         "answer_4": "Solo dai committenti",
         "currect_answer": "answer_2",
         "module": "modulo 37",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_37"
     },
     {
         "question": "Nell'analisi dei requisiti di una realtà di interesse, le eventuali realizzazion preesistenti:",
@@ -487,7 +1477,7 @@
         "answer_4": "Devono essere prese in considerazione solo se non più funzionanti",
         "currect_answer": "answer_3",
         "module": "modulo 37",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_37"
     },
     {
         "question": "Per caratteristiche del sistema si intendono:",
@@ -497,7 +1487,7 @@
         "answer_4": "Dipende dalla tipologia di sistema",
         "currect_answer": "answer_3",
         "module": "modulo 37",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_37"
     },
     {
         "question": "Nell'analisi dei requisiti, le verifiche di comprensione e consistenza delle informazioni che si raccolgono vanno fatte:",
@@ -507,7 +1497,7 @@
         "answer_4": "Con interviste all'utente",
         "currect_answer": "answer_4",
         "module": "modulo 37",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_37"
     },
     {
         "question": "Per rappresentare un concetto presente nelle specifiche attraverso un costrutto E-R, ci si basa su:",
@@ -517,7 +1507,7 @@
         "answer_4": "Le definizioni dei costrutti de modello fisico",
         "currect_answer": "answer_2",
         "module": "modulo 38",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_38"
     },
     {
         "question": "Esiste una rappresentazione univoca in E-R di un insieme di specifiche:",
@@ -527,7 +1517,7 @@
         "answer_4": "Dipende dal contesto logico",
         "currect_answer": "answer_3",
         "module": "modulo 38",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_38"
     },
     {
         "question": "Se un concetto ha proprietà significative e/o descriva oggetti con esistenza autonoma è opportuno rappresentarlo con:",
@@ -537,7 +1527,7 @@
         "answer_4": "Una entità",
         "currect_answer": "answer_4",
         "module": "modulo 38",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_38"
     },
     {
         "question": "L'età di un insegnante è un classico esempio di:",
@@ -547,7 +1537,7 @@
         "answer_4": "Generalizzazione",
         "currect_answer": "answer_1",
         "module": "modulo 38",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_38"
     },
     {
         "question": "La partecipazione di uno studente ad un corso è un classico esempio di:",
@@ -557,7 +1547,7 @@
         "answer_4": "Generalizzazione",
         "currect_answer": "answer_2",
         "module": "modulo 38",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_38"
     },
     {
         "question": "La figura rappresenta",
@@ -568,7 +1558,7 @@
         "answer_4": "Una entità con identificatore Indirizzo+nome",
         "currect_answer": "answer_1",
         "module": "modulo 38",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_38"
     },
     {
         "question": "La relazione Prestito senza attributi identificatori",
@@ -579,7 +1569,7 @@
         "answer_4": "La relazione Prestito con quattro attributi",
         "currect_answer": "answer_2",
         "module": "modulo 38",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_38"
     },
     {
         "question": "La figura rappresenta un esempio di",
@@ -590,7 +1580,7 @@
         "answer_4": "Entità",
         "currect_answer": "answer_3",
         "module": "modulo 38",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_38"
     },
     {
         "question": "Se uno o più concetti risultano essere casi particolari di un altro concetto, è opportuno rappresentarli con:",
@@ -600,7 +1590,7 @@
         "answer_4": "Un attributo",
         "currect_answer": "answer_2",
         "module": "modulo 38",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_38"
     },
     {
         "question": "Se nelle specifiche appare un concetto che associa due entità, esso si traduce in:",
@@ -610,7 +1600,7 @@
         "answer_4": "Una relazione",
         "currect_answer": "answer_4",
         "module": "modulo 38",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_38"
     },
     {
         "question": "Un pattern può essere definito come:",
@@ -620,7 +1610,7 @@
         "answer_4": "Una soluzione software particolare ad un problema ricorrente",
         "currect_answer": "answer_1",
         "module": "modulo 39",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_39"
     },
     {
         "question": "I pattern riguardanti le relazioni uno-a-molti sono:",
@@ -630,7 +1620,7 @@
         "answer_4": "Solo ricorsivi",
         "currect_answer": "answer_2",
         "module": "modulo 39",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_39"
     },
     {
         "question": "La reificazione di un attributo avviene quando:",
@@ -640,7 +1630,7 @@
         "answer_4": "Quando si individua nelle specifiche un concetto autonomo con proprietà associate, come entità",
         "currect_answer": "answer_3",
         "module": "modulo 39",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_39"
     },
     {
         "question": "Reificare un attributo significa:",
@@ -650,7 +1640,7 @@
         "answer_4": "L'attributo viene promosso a relazione",
         "currect_answer": "answer_2",
         "module": "modulo 39",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_39"
     },
     {
         "question": "Il pattern part-of:",
@@ -660,7 +1650,7 @@
         "answer_4": "Riguarda una entità che è parte di un'altra entità in una relazione uno-a-molti",
         "currect_answer": "answer_4",
         "module": "modulo 39",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_39"
     },
     {
         "question": "Il pattern istance-of si applica quando:",
@@ -670,7 +1660,7 @@
         "answer_4": "Le istanze delle occorrenze di una entità in una relazione sono istanze delle occorrenze di un attributo composto",
         "currect_answer": "answer_2",
         "module": "modulo 39",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_39"
     },
     {
         "question": "La reificazione di una relazione binaria si applica quando:",
@@ -680,7 +1670,7 @@
         "answer_4": "Si ha un concetto che lega due relazioni",
         "currect_answer": "answer_3",
         "module": "modulo 39",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_39"
     },
     {
         "question": "La reificazione di una relazione ricorsiva si ha quando:",
@@ -690,7 +1680,7 @@
         "answer_4": "Si hanno due concetti ed un terzo concetto in relazione ricorsiva con loro",
         "currect_answer": "answer_1",
         "module": "modulo 39",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_39"
     },
     {
         "question": "Nell'esempio di relazione tra torneo ed una sua edizione annuale, siamo in presenza di un pattern di tipo:",
@@ -700,7 +1690,7 @@
         "answer_4": "uno-a-uno",
         "currect_answer": "answer_2",
         "module": "modulo 39",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_39"
     },
     {
         "question": "Nell'esempio di relazione tra cinema e sue sale, si è in presenza di un pattern di tipo:",
@@ -710,7 +1700,7 @@
         "answer_4": "uno-a-uno",
         "currect_answer": "answer_1",
         "module": "modulo 39",
-        "link_pdf": ""
+        "link_pdf": "base_di_dati/dispensa_39"
     },
     {
         "question": "Dato lo schema E-R riportato in figura. Per rappresentare un musicista che possa suonare diversi strumenti per un'orchestra, che costrutto è necessario utilizzare",
