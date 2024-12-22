@@ -1,4 +1,4 @@
-fetch('./questions.json')
+fetch('./questions/programmazione_1.json')
     .then(response => response.json())
     .then(questions => {
         initializeQuiz(questions);
@@ -137,6 +137,11 @@ function displayResults(results, resultContainer, quizContainer) {
             currectAnswer.textContent = `Risposta corretta: ${questionData[questionData.currect_answer]}`;
             console.log("questionData",questionData)
             questionCard.appendChild(currectAnswer)
+        }
+        if (questionData.section) {
+            const section = document.createElement('p');
+            section.textContent = `Sezione: ${questionData.section}`;
+            additionalInfo.appendChild(section)
         }
         additionalInfo.appendChild(pdfLink);
         questionCard.appendChild(additionalInfo);

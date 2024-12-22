@@ -1,0 +1,14 @@
+[
+    {
+        "question": "Quando parliamo di: 'una descrizione delle operazioni che devono essere eseguite per risolvere una certa classe di problemi', stiamo definendo un...",
+        "answer_1": "programma",
+        "answer_2": "algortimo",
+        "answer_3": "diagramma",
+        "answer_4": "flow chart",
+        "currect_answer": "answer_1",
+        "module": "modulo 1",
+	    "paragraph": "Algoritmi e programmi",
+        "link_pdf": "programmazione_1/dispensa_1",
+        "section": "principi di programmazione"
+    }
+]
