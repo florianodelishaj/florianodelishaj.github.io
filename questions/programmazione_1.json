@@ -504,5 +504,115 @@
         "module": "modulo 1",
 	    "paragraph": "Sintassi",
         "link_pdf": "programmazione_1/dispensa_1"
+    },
+    {
+        "question": "Le direttive come #include, #define vengono elaborati da:",
+        "answer_1": "Compilatore",
+        "answer_2": "Linker",
+        "answer_3": "Preprocessore",
+        "answer_4": "Linker e compilatore",
+        "currect_answer": "answer_3",
+        "module": "modulo 2",
+	    "paragraph": "Fasi di compilazione",
+        "link_pdf": "programmazione_1/dispensa_2"
+    },
+    {
+        "question": "Traduce il codice C in linguaggio macchina…",
+        "answer_1": "Compilatore",
+        "answer_2": "Linker",
+        "answer_3": "Preprocessore",
+        "answer_4": "Linker e compilatore",
+        "currect_answer": "answer_1",
+        "module": "modulo 2",
+	    "paragraph": "Fasi di compilazione",
+        "link_pdf": "programmazione_1/dispensa_2"
+    },
+    {
+        "question": "I tipi di errore Error e Warning…",
+        "answer_1": "Sono la stessa cosa",
+        "answer_2": "Sono due cose diverse",
+        "answer_3": "Non appartengono al linguaggio C",
+        "answer_4": "Appartengono solo alle prime versioni del linguaggio C",
+        "currect_answer": "answer_2",
+        "module": "modulo 2",
+	    "paragraph": "Fasi di compilazione",
+        "link_pdf": "programmazione_1/dispensa_2"
+    },
+    {
+        "question": "Nel linguaggio C, i caratteri maiuscoli e minuscoli:",
+        "answer_1": "Sono la stessa cosa perché il linguaggio C è 'case sensitive'",
+        "answer_2": "Non si possono usare",
+        "answer_3": "Sono uguali o diversi a seconda del blocco di istruzioni",
+        "answer_4": "Sono considerati diversi perché il linguaggio C è 'case sensitive'",
+        "currect_answer": "answer_4",
+        "module": "modulo 2",
+	    "paragraph": "Fasi di compilazione",
+        "link_pdf": "programmazione_1/dispensa_2"
+    },
+    {
+        "question": "Se decidiamo di scrivere un programma con un qualsiasi editor di testo, per poter vedere il risultato dobbiamo salvare il file con estensione:",
+        "answer_1": ".txt",
+        "answer_2": ".doc",
+        "answer_3": ".c",
+        "answer_4": ".xls",
+        "currect_answer": "answer_3",
+        "module": "modulo 2",
+	    "paragraph": "Compilazione",
+        "link_pdf": "programmazione_1/dispensa_2"
+    },
+    {
+        "question": "L'assembler è incaricato di creare il codice oggetto salvandolo in un file…",
+        "answer_1": ".a sotto Unix/Linux e .c in Dos/Windows",
+        "answer_2": ".c sotto Unix/Linux e .obj in Dos/Windows",
+        "answer_3": ".o sia sotto Unix/Linux che sotto Dos/Windows",
+        "answer_4": ".o sotto Unix/Linux e .obj in Dos/Windows",
+        "currect_answer": "answer_4",
+        "module": "modulo 2",
+	    "paragraph": "Compilazione",
+        "link_pdf": "programmazione_1/dispensa_2"
+    },
+    {
+        "question": "GCC è un:",
+        "answer_1": "Editor di testo",
+        "answer_2": "Ambiente di sviluppo completo",
+        "answer_3": "Compilatore",
+        "answer_4": "Linguaggio di programmazione",
+        "currect_answer": "answer_3",
+        "module": "modulo 2",
+	    "paragraph": "Compilazione",
+        "link_pdf": "programmazione_1/dispensa_2"
+    },
+    {
+        "question": "Assembla in un unico file eseguibile i file oggetto prodotti da diversi file sorgente e le librerie:",
+        "answer_1": "Compilatore",
+        "answer_2": "Linker",
+        "answer_3": "Preprocessore",
+        "answer_4": "Linker e compilatore",
+        "currect_answer": "answer_2",
+        "module": "modulo 2",
+	    "paragraph": "Fasi di compilazione",
+        "link_pdf": "programmazione_1/dispensa_2"
+    },
+    {
+        "question": "Sono errori sintattici, che impediscono la generazione del codice eseguibile:",
+        "answer_1": "Warning",
+        "answer_2": "Error",
+        "answer_3": "Sia Error che Warning",
+        "answer_4": "Warning nella maggior parte dei casi",
+        "currect_answer": "answer_2",
+        "module": "modulo 2",
+	    "paragraph": "Fasi di compilazione",
+        "link_pdf": "programmazione_1/dispensa_2"
+    },
+    {
+        "question": "Sono errori non sintattici che non impediscono la generazione del codice eseguibile:",
+        "answer_1": "Warning",
+        "answer_2": "Error",
+        "answer_3": "Sia Error che Warning",
+        "answer_4": "Warning nella maggior parte dei casi",
+        "currect_answer": "answer_1",
+        "module": "modulo 2",
+	    "paragraph": "Fasi di compilazione",
+        "link_pdf": "programmazione_1/dispensa_2"
     }
 ]
