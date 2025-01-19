@@ -724,5 +724,115 @@
         "module": "modulo 3",
 	    "paragraph": "La funzione printf",
         "link_pdf": "programmazione_1/dispensa_3"
+    },
+    {
+        "question": "Chiedere un numero all'utente è una operazione di:",
+        "answer_1": "input",
+        "answer_2": "output",
+        "answer_3": "elaborazione",
+        "answer_4": "input e output",
+        "currect_answer": "answer_1",
+        "module": "modulo 4",
+	    "paragraph": "Le variabili",
+        "link_pdf": "programmazione_1/dispensa_4"
+    },
+    {
+        "question": "Le variabili devono essere:",
+        "answer_1": "definite con un nome e un tipo di dato",
+        "answer_2": "definite con il solo nome",
+        "answer_3": "definite in un punto qualsiasi del programma",
+        "answer_4": "usate prima della definizione",
+        "currect_answer": "answer_1",
+        "module": "modulo 4",
+	    "paragraph": "Le variabili",
+        "link_pdf": "programmazione_1/dispensa_4"
+    },
+    {
+        "question": "Il nome di una variabile:",
+        "answer_1": "è a discrezione del compilatore",
+        "answer_2": "deve includere trattini \"_\"",
+        "answer_3": "è sensibile all'uso del carattere",
+        "answer_4": "inizia con una cifra",
+        "currect_answer": "answer_3",
+        "module": "modulo 4",
+	    "paragraph": "Le variabili",
+        "link_pdf": "programmazione_1/dispensa_4"
+    },
+    {
+        "question": "La funzione scanf:",
+        "answer_1": "scrive sullo standard output",
+        "answer_2": "include stringhe di controllo di formato",
+        "answer_3": "puo' essere priva di argomenti",
+        "answer_4": "stampa sullo schermo un messaggio",
+        "currect_answer": "answer_2",
+        "module": "modulo 4",
+	    "paragraph": "Funzione di input: scanf",
+        "link_pdf": "programmazione_1/dispensa_4"
+    },
+    {
+        "question": "Nella funzione scanf, una variabile deve essere:",
+        "answer_1": "preceduta da &",
+        "answer_2": "seguita da &",
+        "answer_3": "preceduta da %",
+        "answer_4": "seguita da %",
+        "currect_answer": "answer_1",
+        "module": "modulo 4",
+	    "paragraph": "Funzione di input: scanf",
+        "link_pdf": "programmazione_1/dispensa_4"
+    },
+    {
+        "question": "La stringa di controllo di formato per un integer include la lettera:",
+        "answer_1": "f",
+        "answer_2": "d",
+        "answer_3": "i",
+        "answer_4": "p",
+        "currect_answer": "answer_2",
+        "module": "modulo 4",
+	    "paragraph": "Funzione di input: scanf",
+        "link_pdf": "programmazione_1/dispensa_4"
+    },
+    {
+        "question": "L'operatore di assegnazione è:",
+        "answer_1": "%",
+        "answer_2": "\"",
+        "answer_3": "==",
+        "answer_4": "=",
+        "currect_answer": "answer_4",
+        "module": "modulo 4",
+	    "paragraph": "Funzione di input: scanf",
+        "link_pdf": "programmazione_1/dispensa_4"
+    },
+    {
+        "question": "In C, i calcoli possono essere eseguiti:",
+        "answer_1": "nell'istruzione printf, all'esterno di virgolette \" \"",
+        "answer_2": "a sinistra dell'operatore di assegnazione",
+        "answer_3": "nell'istruzione scanf, all'interno di virgolette \" \"",
+        "answer_4": "nell'istruzione printf, all'interno di virgolette \" \"",
+        "currect_answer": "answer_1",
+        "module": "modulo 4",
+	    "paragraph": "Le variabili",
+        "link_pdf": "programmazione_1/dispensa_4"
+    },
+    {
+        "question": "È possibile assegnare un valore a una variabile:",
+        "answer_1": "nella sua definizione",
+        "answer_2": "prima delle istruzioni al preprocessore",
+        "answer_3": "senza terminare l'istruzione con il punto e virgola",
+        "answer_4": "solo se diverso da zero",
+        "currect_answer": "answer_1",
+        "module": "modulo 4",
+	    "paragraph": "Le variabili",
+        "link_pdf": "programmazione_1/dispensa_4"
+    },
+    {
+        "question": "l'istruzione: int a1, a2; è:",
+        "answer_1": "errata, non si possono definire due variabili nella stessa istruzione",
+        "answer_2": "errata, non si possono dichiarare variabili con nome a1 e a2.",
+        "answer_3": "corretta",
+        "answer_4": "errata, non si possono separare due variabili con virgola",
+        "currect_answer": "answer_3",
+        "module": "modulo 4",
+	    "paragraph": "Le variabili",
+        "link_pdf": "programmazione_1/dispensa_4"
     }
 ]
