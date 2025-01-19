@@ -614,5 +614,115 @@
         "module": "modulo 2",
 	    "paragraph": "Fasi di compilazione",
         "link_pdf": "programmazione_1/dispensa_2"
+    },
+    {
+        "question": "Una riga di commento inizia con:",
+        "answer_1": "\\",
+        "answer_2": "//",
+        "answer_3": "**",
+        "answer_4": "/?",
+        "currect_answer": "answer_2",
+        "module": "modulo 3",
+	    "paragraph": "Struttura del Programma",
+        "link_pdf": "programmazione_1/dispensa_3"
+    },
+    {
+        "question": "Un commento multilinea termina con:",
+        "answer_1": "\\",
+        "answer_2": "//",
+        "answer_3": "*/",
+        "answer_4": "/*",
+        "currect_answer": "answer_3",
+        "module": "modulo 3",
+	    "paragraph": "Struttura del Programma",
+        "link_pdf": "programmazione_1/dispensa_3"
+    },
+    {
+        "question": "Le istruzioni di include per il preprocessore iniziano con:",
+        "answer_1": "#",
+        "answer_2": "\"",
+        "answer_3": "*/",
+        "answer_4": "(",
+        "currect_answer": "answer_1",
+        "module": "modulo 3",
+	    "paragraph": "Struttura del Programma",
+        "link_pdf": "programmazione_1/dispensa_3"
+    },
+    {
+        "question": "Un blocco e' racchiuso da parentesi",
+        "answer_1": "graffe",
+        "answer_2": "tonde",
+        "answer_3": "quadrate",
+        "answer_4": "angolari",
+        "currect_answer": "answer_1",
+        "module": "modulo 3",
+	    "paragraph": "La funzione main",
+        "link_pdf": "programmazione_1/dispensa_3"
+    },
+    {
+        "question": "Il termine void, argomento della funzione main, e' racchiuso fra parentesi:",
+        "answer_1": "graffe",
+        "answer_2": "tonde",
+        "answer_3": "quadrate",
+        "answer_4": "angolari",
+        "currect_answer": "answer_2",
+        "module": "modulo 3",
+	    "paragraph": "La funzione main",
+        "link_pdf": "programmazione_1/dispensa_3"
+    },
+    {
+        "question": "Il messaggio da stampare all'interno della funzione printf va racchiuso fra:",
+        "answer_1": "\"",
+        "answer_2": "\\",
+        "answer_3": "[",
+        "answer_4": "[",
+        "currect_answer": "answer_",
+        "module": "modulo 3",
+	    "paragraph": "La funzione printf",
+        "link_pdf": "programmazione_1/dispensa_3"
+    },
+    {
+        "question": "Ogni istruzione deve terminare con:",
+        "answer_1": "punto",
+        "answer_2": "virgola",
+        "answer_3": "due punti",
+        "answer_4": "punto e virgola",
+        "currect_answer": "answer_4",
+        "module": "modulo 3",
+	    "paragraph": "La funzione printf",
+        "link_pdf": "programmazione_1/dispensa_3"
+    },
+    {
+        "question": "La sequenza di escape \\n:",
+        "answer_1": "posiziona il cursore alla riga successiva",
+        "answer_2": "produce un suono o un allarme",
+        "answer_3": "inserisce un carattere di backslash",
+        "answer_4": "Inserisce un carattere di backslash seguito dalla lettera n",
+        "currect_answer": "answer_1",
+        "module": "modulo 3",
+	    "paragraph": "La funzione printf",
+        "link_pdf": "programmazione_1/dispensa_3"
+    },
+    {
+        "question": "La sequenza di escape \\a:",
+        "answer_1": "posiziona il cursore alla riga successiva",
+        "answer_2": "produce un suono o un allarme",
+        "answer_3": "inserisce un carattere di backslash",
+        "answer_4": "inserisce un carattere di backslash seguito dalla lettera a",
+        "currect_answer": "answer_2",
+        "module": "modulo 3",
+	    "paragraph": "La funzione printf",
+        "link_pdf": "programmazione_1/dispensa_3"
+    },
+    {
+        "question": "stdio.h contiene:",
+        "answer_1": "l'istruzione main",
+        "answer_2": "il linker",
+        "answer_3": "l'eseguibile",
+        "answer_4": "l'istruzione printf",
+        "currect_answer": "answer_4",
+        "module": "modulo 3",
+	    "paragraph": "La funzione printf",
+        "link_pdf": "programmazione_1/dispensa_3"
     }
 ]
