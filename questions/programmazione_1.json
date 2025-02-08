@@ -3254,5 +3254,115 @@
         "module": "modulo 32",
 	    "paragraph": "Ricorsione rispetto all'iterazione",
         "link_pdf": "programmazione_1/dispensa_32"
+    },
+    {
+        "question": "Gli array sono:",
+        "answer_1": "strutture di funzioni costituite da funzioni non correlate e di ogni tipo",
+        "answer_2": "strutture di dati costituite da dati non correlati e di ogni tipo",
+        "answer_3": "strutture di funzioni costituite da funzioni dello stesso tipo",
+        "answer_4": "strutture di dati costituite da dati correlati e dello stesso tipo",
+        "currect_answer": "answer_4",
+        "module": "modulo 34",
+	    "paragraph": "Array: definizione",
+        "link_pdf": "programmazione_1/dispensa_34"
+    },
+    {
+        "question": "Nel programma C, per fare riferimento a un particolare elemento dell'array, specifichiamo:",
+        "answer_1": "il nome, il valore esadecimale della locazione di memoria, e il numero di posizione dell'elemento nell'array",
+        "answer_2": "solo il numero di posizione dell'elemento nell'array",
+        "answer_3": "solo il nome dell'array",
+        "answer_4": "il nome dell'array e il numero di posizione dell'elemento nell'array",
+        "currect_answer": "answer_4",
+        "module": "modulo 34",
+	    "paragraph": "Array: definizione",
+        "link_pdf": "programmazione_1/dispensa_34"
+    },
+    {
+        "question": "Il primo elemento in ogni array è l'elemento di posizione:",
+        "answer_1": "0",
+        "answer_2": "1",
+        "answer_3": "-1",
+        "answer_4": "100",
+        "currect_answer": "answer_1",
+        "module": "modulo 34",
+	    "paragraph": "Array: definizione",
+        "link_pdf": "programmazione_1/dispensa_34"
+    },
+    {
+        "question": "Il nome di un array NON può iniziare con:",
+        "answer_1": "lettera minuscola",
+        "answer_2": "cifra",
+        "answer_3": "sottilineatura (underscore)",
+        "answer_4": "le lettere 'arr'",
+        "currect_answer": "answer_2",
+        "module": "modulo 34",
+	    "paragraph": "Array: definizione",
+        "link_pdf": "programmazione_1/dispensa_34"
+    },
+    {
+        "question": " In un array, il numero di posizione tra le parentesi quadre è chiamato:",
+        "answer_1": "indice",
+        "answer_2": "sommario",
+        "answer_3": "codice",
+        "answer_4": "argomento",
+        "currect_answer": "answer_1",
+        "module": "modulo 34",
+	    "paragraph": "Array: definizione",
+        "link_pdf": "programmazione_1/dispensa_34"
+    },
+    {
+        "question": "L'istruzione c[a + b] += 4; con a=1 e b=2 interi:",
+        "answer_1": "addiziona 2 all'elemento 12 dell'array c",
+        "answer_2": "addiziona 4 all'elemento 12 dell'array c",
+        "answer_3": "assegna 4 all'elemento 12 dell'array c",
+        "answer_4": "addiziona 4 all'elemento 3 dell'array c",
+        "currect_answer": "answer_4",
+        "module": "modulo 34",
+	    "paragraph": "Array: definizione",
+        "link_pdf": "programmazione_1/dispensa_34"
+    },
+    {
+        "question": "printf('%d', s[1] + s[2]); restituisce:",
+        "answer_1": "errore, servono due specificatori di conversione %d",
+        "answer_2": "errore, non si può effettuare la somma s[1] + s[2]",
+        "answer_3": "la stampa della somma degli elementi 1 e 2 dell'array s",
+        "answer_4": "errore, andava indicato 1[s] + 2[s]",
+        "currect_answer": "answer_3",
+        "module": "modulo 34",
+	    "paragraph": "Array: definizione",
+        "link_pdf": "programmazione_1/dispensa_34"
+    },
+    {
+        "question": "size_t rappresenta:",
+        "answer_1": "un tipo intero senza segno raccomandato per gli indici di un array",
+        "answer_2": "un tipo intero senza segno da evitare per gli indici di un array",
+        "answer_3": "un tipo float raccomandato per gli indici di un array",
+        "answer_4": "un tipo float da evitare per gli indici di un array",
+        "currect_answer": "answer_",
+        "module": "modulo 34",
+	    "paragraph": "Array: inizializzazione",
+        "link_pdf": "programmazione_1/dispensa_34"
+    },
+    {
+        "question": "int c[100] = {0}; determina:",
+        "answer_1": "l'inizializzazione a 0 del valore alla posizione 100",
+        "answer_2": "l'inizializzazione a 100 del valore alla posizione 0",
+        "answer_3": "l'inizializzazione a 0 di tutti i valori dell'array c",
+        "answer_4": "errore, per inizializzare serve il valore di ogni elemento dell'array",
+        "currect_answer": "answer_3",
+        "module": "modulo 34",
+	    "paragraph": "Array: inizializzazione",
+        "link_pdf": "programmazione_1/dispensa_34"
+    },
+    {
+        "question": "Per definire la costante simbolica per la dimensione degli array si utlizza:",
+        "answer_1": "#define",
+        "answer_2": "#include",
+        "answer_3": "<define>",
+        "answer_4": "<include>",
+        "currect_answer": "answer_1",
+        "module": "modulo 34",
+	    "paragraph": "Array: inizializzazione",
+        "link_pdf": "programmazione_1/dispensa_34"
     }
 ]
