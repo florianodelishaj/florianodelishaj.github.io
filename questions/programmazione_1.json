@@ -676,7 +676,7 @@
         "answer_2": "\\",
         "answer_3": "[",
         "answer_4": "[",
-        "currect_answer": "answer_",
+        "currect_answer": "answer_1",
         "module": "modulo 3",
 	    "paragraph": "La funzione printf",
         "link_pdf": "programmazione_1/dispensa_3"
@@ -3338,7 +3338,7 @@
         "answer_2": "un tipo intero senza segno da evitare per gli indici di un array",
         "answer_3": "un tipo float raccomandato per gli indici di un array",
         "answer_4": "un tipo float da evitare per gli indici di un array",
-        "currect_answer": "answer_",
+        "currect_answer": "answer_1",
         "module": "modulo 34",
 	    "paragraph": "Array: inizializzazione",
         "link_pdf": "programmazione_1/dispensa_34"
